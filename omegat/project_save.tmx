@@ -88,8 +88,8 @@
       <tuv lang="EN-GB">
         <seg>The AFM I think is essential to maintaining</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T153443Z" creationid="fred" creationdate="20190327T153443Z">
-        <seg>The AFM I think is essential to maintaining</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T153644Z" creationid="fred" creationdate="20190327T153443Z">
+        <seg>Je pense que l’AFM est essentiel au maintien</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,10 +166,18 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>and is allowing translation of research,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T153935Z" creationid="fred" creationdate="20190327T153935Z">
+        <seg>permettant une conversion plus rapide des recherches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>and it also ensures a balance between</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T153403Z" creationid="fred" creationdate="20190327T153403Z">
-        <seg>L'AFM assure également un équilibre entre</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T153702Z" creationid="fred" creationdate="20190327T153403Z">
+        <seg>Cet organisme assure également un équilibre entre</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T153438Z" creationid="fred" creationdate="20190327T153438Z">
         <seg>les efforts consacrés aux différentes pathologies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>the momentum that's been built up over recent years,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T153745Z" creationid="fred" creationdate="20190327T153745Z">
+        <seg>de l'élan qui s'est construit ces dernières années,</seg>
       </tuv>
     </tu>
     <tu>
