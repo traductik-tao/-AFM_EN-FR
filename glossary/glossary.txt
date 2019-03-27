@@ -5,3 +5,4 @@ protective treatment	traitement protecteur
 Duchenne patients	patients Duchenne
 heart muscle weakness	insuffisance myocardique	insuffisance cardiaque
 left ventricular dysfunction	dysfonctionnement ventriculaire gauche	left ventricular dysfunction
+perindopril	périndopril	Le périndopril est un inhibiteur de l'enzyme de conversion de l’angiotensine (ECA en français / IEC ou ACE en anglais). Il est prescrit dans le cas d'hypertension
