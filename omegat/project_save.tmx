@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>So I'm a clinical cardiologist and I run</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T120146Z" creationid="fred" creationdate="20190327T120146Z">
+        <seg>So I'm a clinical cardiologist and I run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>[Music]</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T120038Z" creationid="fred" creationdate="20190327T120023Z">
+        <seg>[Musique]</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
