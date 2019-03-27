@@ -80,16 +80,24 @@
       <tuv lang="EN-GB">
         <seg>for the last... well, nearly ten years</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T142202Z" creationid="fred" creationdate="20190327T142202Z">
-        <seg>durant ces dix dernières années</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T142451Z" creationid="fred" creationdate="20190327T142202Z">
+        <seg>a été durant ces dix dernières années</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>has been a randomized study seeing whether</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T142441Z" creationid="fred" creationdate="20190327T142441Z">
-        <seg>a ététune étude randomisée visant à</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T142645Z" creationid="fred" creationdate="20190327T142441Z">
+        <seg>une étude randomisée visant à établir si</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>in Duchenne patients can delay the onset</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T142759Z" creationid="fred" creationdate="20190327T142759Z">
+        <seg>chez les patients de Duchenne peuvent retarder l’apparition</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +114,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T140249Z" creationid="fred" creationdate="20190327T140249Z">
         <seg>sur un public à la fois pédiatrique et adulte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>protective treatment for the heart</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T142619Z" creationid="fred" creationdate="20190327T142619Z">
+        <seg>un traitement protecteur du cœur</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
