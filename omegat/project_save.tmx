@@ -240,8 +240,8 @@
       <tuv lang="EN-GB">
         <seg>won't show in a three-year time period</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T151555Z" creationid="fred" creationdate="20190327T151555Z">
-        <seg>won't show in a three-year time period</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T151929Z" creationid="fred" creationdate="20190327T151555Z">
+        <seg>est quasi nulle sur une période de trois ans.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
