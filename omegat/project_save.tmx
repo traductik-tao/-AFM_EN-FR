@@ -40,8 +40,8 @@
       <tuv lang="EN-GB">
         <seg>So, eighty five boys were recruited</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T145138Z" creationid="fred" creationdate="20190327T145138Z">
-        <seg>Nous avons recruté 85 garçons,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T145257Z" creationid="fred" creationdate="20190327T145138Z">
+        <seg>Notre étude porte sur 85 garçons,</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +50,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T142121Z" creationid="fred" creationdate="20190327T142121Z">
         <seg>Le principal objectif de mes recherches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>We treated them with a combination of</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T145409Z" creationid="fred" creationdate="20190327T145409Z">
+        <seg>Nous les avons traités avec une association de</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,9 +86,17 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>and followed for a minimum of three years.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T145346Z" creationid="fred" creationdate="20190327T145329Z">
+        <seg>et suivis pendant au moins trois ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>between the ages of five and thirteen</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T145240Z" creationid="fred" creationdate="20190327T145240Z">
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T145336Z" creationid="fred" creationdate="20190327T145240Z">
         <seg>âgés de cinq à treize ans</seg>
       </tuv>
     </tu>
@@ -138,6 +154,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T140249Z" creationid="fred" creationdate="20190327T140249Z">
         <seg>sur un public à la fois pédiatrique et adulte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>perindopril — that's an ACE inhibitor</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T150032Z" creationid="fred" creationdate="20190327T150032Z">
+        <seg>périndopril — un inhibiteur de l'ECA</seg>
       </tuv>
     </tu>
     <tu>
