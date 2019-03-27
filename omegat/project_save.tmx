@@ -384,8 +384,8 @@
       <tuv lang="EN-GB">
         <seg>that after three years of treatment,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152206Z" creationid="fred" creationdate="20190327T152206Z">
-        <seg>qu'après trois ans de traitement,,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T155845Z" creationid="fred" creationdate="20190327T152206Z">
+        <seg>qu'après trois ans de thérapie,,</seg>
       </tuv>
     </tu>
     <tu>
@@ -464,8 +464,8 @@
       <tuv lang="EN-GB">
         <seg>there is no difference between active and placebo treatment.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152249Z" creationid="fred" creationdate="20190327T152249Z">
-        <seg>il n'y a pas de différence entre les traitements actifs et placebos.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T155904Z" creationid="fred" creationdate="20190327T152249Z">
+        <seg>il n'y a pas de différence entre principes actifs et placebos.</seg>
       </tuv>
     </tu>
     <tu>
