@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Somewhat disappointingly, the results do not show</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T151312Z" creationid="fred" creationdate="20190327T151102Z">
+        <seg>Nous n'avons hélas pas encore constaté d'amélioration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>The main focus of my research</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T142121Z" creationid="fred" creationdate="20190327T142121Z">
@@ -110,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>any group benefit after three years of treatment</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T151243Z" creationid="fred" creationdate="20190327T151243Z">
+        <seg>dans aucun groupe après trois ans de traitement,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>between the ages of five and thirteen</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T145336Z" creationid="fred" creationdate="20190327T145240Z">
@@ -122,6 +138,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T141114Z" creationid="fred" creationdate="20190327T141044Z">
         <seg>avec aussi un mélange d'autres tableaux cliniques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>but we think that's partly explained</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T151352Z" creationid="fred" creationdate="20190327T151352Z">
+        <seg>mais nous pensons que cela s'explique en partie</seg>
       </tuv>
     </tu>
     <tu>
