@@ -1,2 +1,3 @@
 clinical cardiologist	cardiologue clinicien
 inherited neuromuscular disorders	pathologies musculaires héréditaires	inherited neuromuscular disorders
+randomized study	étude randomisée
