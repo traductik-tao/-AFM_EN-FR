@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-GB">
+        <seg>If on the other hand I'm a clinician I believe that</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152414Z" creationid="fred" creationdate="20190327T152414Z">
+        <seg>mais en tant que clinicien, je reste persuadé que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>International Center for Life in Newcastle.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T142103Z" creationid="fred" creationdate="20190327T142103Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T121334Z" creationid="fred" creationdate="20190327T120146Z">
         <seg>En tant que cardiologue, je mène</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>So essentially, if I'm a scientist I would say that the study is negative.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152327Z" creationid="fred" creationdate="20190327T152327Z">
+        <seg>Donc, en tant que scientifique, je dirais que l’étude est négative,</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>because we know already that once we detect</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152644Z" creationid="fred" creationdate="20190327T152644Z">
+        <seg>car nous savons qu'une fois une faiblesse musculaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>between the ages of five and thirteen</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T145336Z" creationid="fred" creationdate="20190327T145240Z">
@@ -266,6 +290,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T145058Z" creationid="fred" creationdate="20190327T143131Z">
         <seg>l'évolution d'un dysfonctionnement ventriculaire gauche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>the treatments are beneficial for the heart in Duchenne</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152500Z" creationid="fred" creationdate="20190327T152500Z">
+        <seg>ces traitements sont bénéfiques pour le cœur des patients Duchenne</seg>
       </tuv>
     </tu>
     <tu>
