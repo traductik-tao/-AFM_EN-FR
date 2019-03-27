@@ -8,8 +8,8 @@
       <tuv lang="EN-GB">
         <seg>So I'm a clinical cardiologist and I run</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T120146Z" creationid="fred" creationdate="20190327T120146Z">
-        <seg>So I'm a clinical cardiologist and I run</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T121334Z" creationid="fred" creationdate="20190327T120146Z">
+        <seg>En tant que cardiologue, je mène</seg>
       </tuv>
     </tu>
     <tu>
@@ -18,6 +18,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T120038Z" creationid="fred" creationdate="20190327T120023Z">
         <seg>[Musique]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>a dedicated cardiology clinic for</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T121202Z" creationid="fred" creationdate="20190327T121202Z">
+        <seg>a dedicated cardiology clinic for</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
