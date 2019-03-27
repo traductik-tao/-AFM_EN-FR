@@ -3,3 +3,4 @@ inherited neuromuscular disorders	pathologies musculaires héréditaires	inherit
 randomized study	étude randomisée
 protective treatment	traitement protecteur
 Duchenne patients	patients Duchenne
+heart muscle weakness	insuffisance myocardique	insuffisance cardiaque
