@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>and the variation in the age of onset of muscle weakness</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T151711Z" creationid="fred" creationdate="20190327T151553Z">
+        <seg>l'évolution d'une faiblesse musculaire venant d'apparaitre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>and there was a placebo comparator group.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T150727Z" creationid="fred" creationdate="20190327T150727Z">
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T151352Z" creationid="fred" creationdate="20190327T151352Z">
         <seg>mais nous pensons que cela s'explique en partie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>by the fact that younger patients,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T151515Z" creationid="fred" creationdate="20190327T151515Z">
+        <seg>par le fait que chez de jeunes patients,</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T145058Z" creationid="fred" creationdate="20190327T143131Z">
         <seg>l'évolution d'un dysfonctionnement ventriculaire gauche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>won't show in a three-year time period</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T151555Z" creationid="fred" creationdate="20190327T151555Z">
+        <seg>won't show in a three-year time period</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
