@@ -48,8 +48,8 @@
       <tuv lang="EN-GB">
         <seg>So I'm a clinical cardiologist and I run</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T121334Z" creationid="fred" creationdate="20190327T120146Z">
-        <seg>En tant que cardiologue, je mène</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T155150Z" creationid="fred" creationdate="20190327T120146Z">
+        <seg>En tant que cardiologue clinicien, je mène</seg>
       </tuv>
     </tu>
     <tu>
@@ -80,8 +80,8 @@
       <tuv lang="EN-GB">
         <seg>So, the research funding is critical,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T154802Z" creationid="fred" creationdate="20190327T154802Z">
-        <seg>Le financement de la recherche est donc essentiel,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T155002Z" creationid="fred" creationdate="20190327T154802Z">
+        <seg>Le financement de la recherche est donc essentiel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>ensure spreading of information</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T155044Z" creationid="fred" creationdate="20190327T155044Z">
+        <seg>de précieuses informations circulent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>for the last... well, nearly ten years</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T142451Z" creationid="fred" creationdate="20190327T142202Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T154253Z" creationid="fred" creationdate="20190327T154253Z">
         <seg>en traitements efficaces pour les patients...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>much, much more rapidly than traditional methods!</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T155106Z" creationid="fred" creationdate="20190327T155106Z">
+        <seg>bien plus rapidement qu'avec les méthodes traditionnelles !</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +432,8 @@
       <tuv lang="EN-GB">
         <seg>the networking is critical,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T154848Z" creationid="fred" creationdate="20190327T154848Z">
-        <seg>la mise en réseau des connaissances aussi,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T155009Z" creationid="fred" creationdate="20190327T154848Z">
+        <seg>la mise en réseau des connaissances aussi :</seg>
       </tuv>
     </tu>
     <tu>
