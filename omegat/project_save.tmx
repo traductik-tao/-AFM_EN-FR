@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-GB">
+        <seg>International Center for Life in Newcastle.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T142103Z" creationid="fred" creationdate="20190327T142103Z">
+        <seg> du centre international de Newcastle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>John Wharton muscle team at the</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T142031Z" creationid="fred" creationdate="20190327T142031Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T121334Z" creationid="fred" creationdate="20190327T120146Z">
         <seg>En tant que cardiologue, je mène</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The main focus of my research</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T142121Z" creationid="fred" creationdate="20190327T142121Z">
+        <seg>Le principal objectif de mes recherches</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +74,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T141114Z" creationid="fred" creationdate="20190327T141044Z">
         <seg>avec aussi un mélange d'autres tableaux cliniques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>for the last... well, nearly ten years</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T142202Z" creationid="fred" creationdate="20190327T142202Z">
+        <seg>durant ces dix dernières années</seg>
       </tuv>
     </tu>
     <tu>
