@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>by the treatments we were testing.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152858Z" creationid="fred" creationdate="20190327T152858Z">
+        <seg>par les traitements que nous testions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>for the last... well, nearly ten years</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T142451Z" creationid="fred" creationdate="20190327T142202Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T140728Z" creationid="fred" creationdate="20190327T140538Z">
         <seg>souffrant de pathologies musculaires héréditaires..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>muscle weakness at an early stage,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152740Z" creationid="fred" creationdate="20190327T152740Z">
+        <seg>détectée à un stade précoce de son évolution,</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,6 +306,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T145058Z" creationid="fred" creationdate="20190327T143131Z">
         <seg>l'évolution d'un dysfonctionnement ventriculaire gauche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>the trajectory of the decline in heart function is helped and slowed</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152851Z" creationid="fred" creationdate="20190327T152851Z">
+        <seg>le déclin de la fonction cardiaque peut être considérablement ralenti</seg>
       </tuv>
     </tu>
     <tu>
