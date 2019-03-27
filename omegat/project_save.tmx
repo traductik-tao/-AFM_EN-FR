@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>So we're hoping to follow the patients for longer.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152000Z" creationid="fred" creationdate="20190327T152000Z">
+        <seg>Il nous faut donc suivre ces patients plus longtemps.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>So, eighty five boys were recruited</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T145257Z" creationid="fred" creationdate="20190327T145138Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T142121Z" creationid="fred" creationdate="20190327T142121Z">
         <seg>Le principal objectif de mes recherches</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>There are beginning to be some changes</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152110Z" creationid="fred" creationdate="20190327T152110Z">
+        <seg>Il commence à y avoir des changements</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +146,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T151243Z" creationid="fred" creationdate="20190327T151243Z">
         <seg>dans aucun groupe après trois ans de traitement,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>at the moment we have to conclude,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152154Z" creationid="fred" creationdate="20190327T152154Z">
+        <seg>pour le moment nous devons conclure</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,10 +254,34 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>that after three years of treatment,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152206Z" creationid="fred" creationdate="20190327T152206Z">
+        <seg>qu'après trois ans de traitement,,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>the trajectory of left ventricular dysfunction</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T145058Z" creationid="fred" creationdate="20190327T143131Z">
         <seg>l'évolution d'un dysfonctionnement ventriculaire gauche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>there is no difference between active and placebo treatment.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152249Z" creationid="fred" creationdate="20190327T152249Z">
+        <seg>il n'y a pas de différence entre les traitements actifs et placebos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>which may prove to be interesting but</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152135Z" creationid="fred" creationdate="20190327T152135Z">
+        <seg>qui pourraient s'avérer intéressants, mais</seg>
       </tuv>
     </tu>
     <tu>
