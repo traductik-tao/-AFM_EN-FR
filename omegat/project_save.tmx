@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>So I think it's more an effect of saying</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T152941Z" creationid="fred" creationdate="20190327T152941Z">
+        <seg>Pour résumer, le paradoxe est que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>So I'm a clinical cardiologist and I run</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T121334Z" creationid="fred" creationdate="20190327T120146Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T151312Z" creationid="fred" creationdate="20190327T151102Z">
         <seg>Nous n'avons hélas pas encore constaté d'amélioration</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The AFM of course is pivotal in providing</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T153122Z" creationid="fred" creationdate="20190327T153122Z">
+        <seg>L’AFM joue un rôle essentiel en assurant le financement</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>funding for a wide range of research,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T153159Z" creationid="fred" creationdate="20190327T153159Z">
+        <seg>d'un large éventail de recherches.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>has been a randomized study seeing whether</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T142645Z" creationid="fred" creationdate="20190327T142441Z">
@@ -298,6 +322,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T152206Z" creationid="fred" creationdate="20190327T152206Z">
         <seg>qu'après trois ans de traitement,,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>the earlier you start a treatment,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T153010Z" creationid="fred" creationdate="20190327T153010Z">
+        <seg>plus vous commencez un traitement tôt,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>the harder it is to show a benefit!</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T153044Z" creationid="fred" creationdate="20190327T153044Z">
+        <seg>plus il est difficile de démontrer son bénéfice !</seg>
       </tuv>
     </tu>
     <tu>
