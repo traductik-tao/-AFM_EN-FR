@@ -6,10 +6,18 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-GB">
+        <seg>John Wharton muscle team at the</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T142031Z" creationid="fred" creationdate="20190327T142031Z">
+        <seg>l'équipe de pathologie musculaire John Walton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Most of the patients are Duchenne or Becker</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T140924Z" creationid="fred" creationdate="20190327T140924Z">
-        <seg>La plupart des patients sont de type Duchenne ou Becker</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T141048Z" creationid="fred" creationdate="20190327T140924Z">
+        <seg>La plupart des patients sont de type Duchenne ou Becker,</seg>
       </tuv>
     </tu>
     <tu>
@@ -34,6 +42,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T140204Z" creationid="fred" creationdate="20190327T121202Z">
         <seg>une étude clinique spécialisée en cardiologie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>and I work very closely with</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T141148Z" creationid="fred" creationdate="20190327T141148Z">
+        <seg>Je travaille en étroite collaboration avec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>but there's a mixture of other conditions</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T141114Z" creationid="fred" creationdate="20190327T141044Z">
+        <seg>avec aussi un mélange d'autres tableaux cliniques.</seg>
       </tuv>
     </tu>
     <tu>
