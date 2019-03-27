@@ -4,3 +4,4 @@ randomized study	étude randomisée
 protective treatment	traitement protecteur
 Duchenne patients	patients Duchenne
 heart muscle weakness	insuffisance myocardique	insuffisance cardiaque
+left ventricular dysfunction	dysfonctionnement ventriculaire gauche	left ventricular dysfunction
