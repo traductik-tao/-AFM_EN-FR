@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>and the relevance of basic science and molecular biology</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T154150Z" creationid="fred" creationdate="20190327T154150Z">
+        <seg>et découvertes fondamentales, en particulier en biologie moléculaire,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>and the variation in the age of onset of muscle weakness</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T151711Z" creationid="fred" creationdate="20190327T151553Z">
