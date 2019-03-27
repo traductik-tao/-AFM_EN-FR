@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>So, the research funding is critical,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T154802Z" creationid="fred" creationdate="20190327T154802Z">
+        <seg>Le financement de la recherche est donc essentiel,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Somewhat disappointingly, the results do not show</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T151312Z" creationid="fred" creationdate="20190327T151102Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T140728Z" creationid="fred" creationdate="20190327T140538Z">
         <seg>souffrant de pathologies musculaires héréditaires..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>into the clinic much faster...</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T154253Z" creationid="fred" creationdate="20190327T154253Z">
+        <seg>en traitements efficaces pour les patients...</seg>
       </tuv>
     </tu>
     <tu>
