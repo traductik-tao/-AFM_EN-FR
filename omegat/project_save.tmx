@@ -24,8 +24,24 @@
       <tuv lang="EN-GB">
         <seg>a dedicated cardiology clinic for</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T121202Z" creationid="fred" creationdate="20190327T121202Z">
-        <seg>a dedicated cardiology clinic for</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T140204Z" creationid="fred" creationdate="20190327T121202Z">
+        <seg>une étude clinique spécialisée en cardiologie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>inherited neuromuscular disorders.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T140538Z" creationid="fred" creationdate="20190327T140538Z">
+        <seg>inherited neuromuscular disorders.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>pediatric age and adults with various</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T140249Z" creationid="fred" creationdate="20190327T140249Z">
+        <seg>sur un public à la fois pédiatrique et adulte</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
