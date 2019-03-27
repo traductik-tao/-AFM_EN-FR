@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>So, eighty five boys were recruited</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T145138Z" creationid="fred" creationdate="20190327T145138Z">
+        <seg>Nous avons recruté 85 garçons,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>The main focus of my research</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T142121Z" creationid="fred" creationdate="20190327T142121Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T141148Z" creationid="fred" creationdate="20190327T141148Z">
         <seg>Je travaille en étroite collaboration avec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>between the ages of five and thirteen</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T145240Z" creationid="fred" creationdate="20190327T145240Z">
+        <seg>âgés de cinq à treize ans</seg>
       </tuv>
     </tu>
     <tu>
