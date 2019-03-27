@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>and there was a placebo comparator group.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190327T150727Z" creationid="fred" creationdate="20190327T150727Z">
+        <seg>Un groupe de comparaison a reçu des placebos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>between the ages of five and thirteen</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T145336Z" creationid="fred" creationdate="20190327T145240Z">
