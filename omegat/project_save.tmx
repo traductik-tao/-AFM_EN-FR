@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>and the AFM will play a big role in</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T152622Z" creationid="joce" creationdate="20190328T152622Z">
+        <seg>et l'AFM jouera un rôle essentiel dans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>and the relevance of basic science and molecular biology</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T154150Z" creationid="fred" creationdate="20190327T154150Z">
