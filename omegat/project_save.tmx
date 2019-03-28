@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Organisations like the AFM will play a big role</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T151105Z" creationid="joce" creationdate="20190328T151105Z">
+        <seg>Des organisations comme l'AFM joueront un rôle important</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>So I think it's more an effect of saying</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T152941Z" creationid="fred" creationdate="20190327T152941Z">
@@ -736,8 +744,8 @@
       <tuv lang="EN-GB">
         <seg>to precise therapies for individual patients.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T150741Z" creationid="joce" creationdate="20190328T150741Z">
-        <seg>à des thérapies précises pour chaque patient.</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T151013Z" creationid="joce" creationdate="20190328T150741Z">
+        <seg>de mettre en place des thérapies précises pour chaque patient.</seg>
       </tuv>
     </tu>
     <tu>
