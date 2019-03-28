@@ -104,8 +104,8 @@
       <tuv lang="EN-GB">
         <seg>So for the collagen VI genes, it is interesting that</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T131950Z" creationid="joce" creationdate="20190328T131950Z">
-        <seg>Par conséquent, pour les gènes du collagène VI, il est intéressant de noter que</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T165808Z" creationid="joce" creationdate="20190328T131950Z">
+        <seg>Pour les gènes du collagène VI, il est intéressant de noter</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +184,8 @@
       <tuv lang="EN-GB">
         <seg>There are 3 collagen VI genes and mutations</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T131300Z" creationid="joce" creationdate="20190328T131300Z">
-        <seg>Il existe 3 gènes du collagène VI et des mutations </seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T165558Z" creationid="joce" creationdate="20190328T131300Z">
+        <seg>Il existe 3 gènes du collagène VI, et des mutations </seg>
       </tuv>
     </tu>
     <tu>
@@ -208,8 +208,8 @@
       <tuv lang="EN-GB">
         <seg>This is caused by mutations in the collagen VI genes.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T131035Z" creationid="joce" creationdate="20190328T131035Z">
-        <seg>Elle est liée à des mutations sur les gènes du collagène VI.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T165526Z" creationid="joce" creationdate="20190328T131035Z">
+        <seg>liée à des mutations sur les gènes du collagène VI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,8 +544,8 @@
       <tuv lang="EN-GB">
         <seg>cause the disease and what you can do about it.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T131712Z" creationid="joce" creationdate="20190328T131712Z">
-        <seg>provoquent la maladie et les solutions qui peuvent être apportées.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T165715Z" creationid="joce" creationdate="20190328T131712Z">
+        <seg>provoquent la maladie, et les solutions qui peuvent être apportées.</seg>
       </tuv>
     </tu>
     <tu>
@@ -728,8 +728,8 @@
       <tuv lang="EN-GB">
         <seg>mutations are often acting as a dominant,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T132553Z" creationid="joce" creationdate="20190328T132553Z">
-        <seg>les mutations sont souvent dominantes,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T165842Z" creationid="joce" creationdate="20190328T132553Z">
+        <seg>que les mutations sont souvent dominantes.</seg>
       </tuv>
     </tu>
     <tu>
