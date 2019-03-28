@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>and for patients that are not large in number,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T151703Z" creationid="joce" creationdate="20190328T151703Z">
+        <seg>et pour un petit nombre de patients,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>and is allowing translation of research,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T153935Z" creationid="fred" creationdate="20190327T153935Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T150149Z" creationid="joce" creationdate="20190328T150149Z">
         <seg>et pour chaque patient.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>for even mutations that are very rare,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T151612Z" creationid="joce" creationdate="20190328T151612Z">
+        <seg>même pour des mutations très rares,</seg>
       </tuv>
     </tu>
     <tu>
