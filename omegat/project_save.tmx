@@ -24,8 +24,8 @@
       <tuv lang="EN-GB">
         <seg>In the past, it was called also</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T162857Z" creationid="joce" creationdate="20190328T162857Z">
-        <seg>Anciennement appelée</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T162916Z" creationid="joce" creationdate="20190328T162857Z">
+        <seg>Anciennement appelée aussi</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>hereditary inclusion body myopathy,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T163019Z" creationid="joce" creationdate="20190328T163019Z">
+        <seg>myopathie héréditaire à inclusions,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>in Duchenne patients can delay the onset</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T142853Z" creationid="fred" creationdate="20190327T142759Z">
@@ -650,6 +658,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T143059Z" creationid="fred" creationdate="20190327T143059Z">
         <seg>d'une insuffisance myocardique ou modifier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>or distal myopathy with rimmed vacuoles.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T163143Z" creationid="joce" creationdate="20190328T163143Z">
+        <seg>ou myopathie distale à vacuoles bordées.</seg>
       </tuv>
     </tu>
     <tu>
