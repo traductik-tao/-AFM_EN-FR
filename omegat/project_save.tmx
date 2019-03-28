@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>the cause of the disease — i.e. the deficiency,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T182116Z" creationid="joce" creationdate="20190328T182116Z">
+        <seg>être responsable de la maladie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>the earlier you start a treatment,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T153010Z" creationid="fred" creationdate="20190327T153010Z">
