@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>In fact this is the first phase-3 trial</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T164600Z" creationid="joce" creationdate="20190328T164600Z">
+        <seg>En réalité, il s'agit du premier essai clinique de phase 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>In the past, it was called also</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T162916Z" creationid="joce" creationdate="20190328T162857Z">
