@@ -720,8 +720,8 @@
       <tuv lang="EN-GB">
         <seg>to be precise about the diagnosis leading</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T150648Z" creationid="joce" creationdate="20190328T150648Z">
-        <seg>consiste à être précis sur le diagnostic menant</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T150841Z" creationid="joce" creationdate="20190328T150648Z">
+        <seg>est d'être précis sur le diagnostic afin</seg>
       </tuv>
     </tu>
     <tu>
@@ -730,6 +730,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T142256Z" creationid="joce" creationdate="20190328T142256Z">
         <seg>devant être épissé sur le gène du collagène VI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>to precise therapies for individual patients.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T150741Z" creationid="joce" creationdate="20190328T150741Z">
+        <seg>à des thérapies précises pour chaque patient.</seg>
       </tuv>
     </tu>
     <tu>
