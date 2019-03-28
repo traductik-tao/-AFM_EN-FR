@@ -336,8 +336,8 @@
       <tuv lang="EN-GB">
         <seg>We had in fact a joint meeting, a workshop,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194622Z" creationid="joce" creationdate="20190328T194622Z">
-        <seg>Nous avons organisé conjointement une réunion, un atelier,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T220153Z" creationid="joce" creationdate="20190328T194622Z">
+        <seg>Nous avons même organisé une réunion, un atelier,</seg>
       </tuv>
     </tu>
     <tu>
@@ -616,8 +616,8 @@
       <tuv lang="EN-GB">
         <seg>but it is clustered in some ethnic populations,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T195302Z" creationid="joce" creationdate="20190328T194851Z">
-        <seg>Et qui plus est, est fréquente dans certaines populations ethniques,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T220405Z" creationid="joce" creationdate="20190328T194851Z">
+        <seg>et qui plus est typée ethniquement,</seg>
       </tuv>
     </tu>
     <tu>
@@ -776,8 +776,8 @@
       <tuv lang="EN-GB">
         <seg>how to follow patients and for how long...</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194354Z" creationid="joce" creationdate="20190328T194354Z">
-        <seg>comment suivre les patients et pour quelle durée ...</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T220101Z" creationid="joce" creationdate="20190328T194354Z">
+        <seg>le suivi des patients et sa durée...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1216,8 +1216,8 @@
       <tuv lang="EN-GB">
         <seg>to try and find a common way of collaboration,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194803Z" creationid="joce" creationdate="20190328T194803Z">
-        <seg>pour tenter de trouver une méthode commune de collaboration,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T220302Z" creationid="joce" creationdate="20190328T194803Z">
+        <seg>afin d'établir une méthode commune de collaboration,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1280,8 +1280,8 @@
       <tuv lang="EN-GB">
         <seg>with all leaders in this field,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194650Z" creationid="joce" creationdate="20190328T194650Z">
-        <seg>avec tous les acteurs de ce domaine,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T220240Z" creationid="joce" creationdate="20190328T194650Z">
+        <seg>avec tous les leaders de ce domaine,</seg>
       </tuv>
     </tu>
     <tu>
