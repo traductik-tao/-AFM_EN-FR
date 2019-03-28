@@ -224,8 +224,8 @@
       <tuv lang="EN-GB">
         <seg>Ullrich congenital muscular dystrophy.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T130813Z" creationid="joce" creationdate="20190328T130813Z">
-        <seg>de dystrophie musculaire congénitale d'Ullrich.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T165516Z" creationid="joce" creationdate="20190328T130813Z">
+        <seg>de dystrophie musculaire congénitale d'Ullrich,</seg>
       </tuv>
     </tu>
     <tu>
@@ -552,8 +552,8 @@
       <tuv lang="EN-GB">
         <seg>collagen VI-related congenital muscular dystrophy,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T130652Z" creationid="joce" creationdate="20190328T130652Z">
-        <seg>dystrophie musculaire congénitale liée au collagène VI,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T165412Z" creationid="joce" creationdate="20190328T130652Z">
+        <seg>dystrophie musculaire congénitale liée au collagène VI.</seg>
       </tuv>
     </tu>
     <tu>
@@ -808,8 +808,8 @@
       <tuv lang="EN-GB">
         <seg>that are present at birth.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T125701Z" creationid="joce" creationdate="20190328T125701Z">
-        <seg>qui sont présents à la naissance.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T165344Z" creationid="joce" creationdate="20190328T125701Z">
+        <seg>qui sont présents dès la naissance.</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,16 +976,16 @@
       <tuv lang="EN-GB">
         <seg>which are genetic disorders of muscles</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T165249Z" creationid="joce" creationdate="20190328T125623Z">
-        <seg>Ce sont des désordres génétiques des musclesdès</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T165339Z" creationid="joce" creationdate="20190328T125623Z">
+        <seg>Ce sont des désordres génétiques des muscles</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>which are severe types, also known as</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T130735Z" creationid="joce" creationdate="20190328T130735Z">
-        <seg>qui sont des types graves, également connue sous le nom</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T165427Z" creationid="joce" creationdate="20190328T130735Z">
+        <seg>Ce sont des types graves, également connus sous le nom</seg>
       </tuv>
     </tu>
     <tu>
