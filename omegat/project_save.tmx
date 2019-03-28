@@ -72,8 +72,8 @@
       <tuv lang="EN-GB">
         <seg>Organisations like the AFM will play a big role</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T151213Z" creationid="joce" creationdate="20190328T151105Z">
-        <seg>Des associations comme l'AFM joueront un rôle déterminant</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T172046Z" creationid="joce" creationdate="20190328T151105Z">
+        <seg>Des entités comme l'AFM jouent un rôle déterminant</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,8 +360,8 @@
       <tuv lang="EN-GB">
         <seg>and for patients that are not large in number,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T151703Z" creationid="joce" creationdate="20190328T151703Z">
-        <seg>et pour un petit nombre de patients,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T172159Z" creationid="joce" creationdate="20190328T151703Z">
+        <seg>et pour un petit nombre de patients.</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,8 +392,8 @@
       <tuv lang="EN-GB">
         <seg>and so that is a project that by necessity</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T151856Z" creationid="joce" creationdate="20190328T151856Z">
-        <seg>et donc un tel projet nécessite</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T172228Z" creationid="joce" creationdate="20190328T151856Z">
+        <seg>Un tel projet nécessite, inévitablement,</seg>
       </tuv>
     </tu>
     <tu>
@@ -648,8 +648,8 @@
       <tuv lang="EN-GB">
         <seg>in making possible that therapies become available</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T151558Z" creationid="joce" creationdate="20190328T151558Z">
-        <seg>en facilitant l'accès aux thérapies</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T172134Z" creationid="joce" creationdate="20190328T151558Z">
+        <seg>en nous permettant d'aboutir à des thérapies</seg>
       </tuv>
     </tu>
     <tu>
@@ -960,8 +960,8 @@
       <tuv lang="EN-GB">
         <seg>to precise therapies for individual patients.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T151013Z" creationid="joce" creationdate="20190328T150741Z">
-        <seg>de mettre en place des thérapies précises pour chaque patient.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T171950Z" creationid="joce" creationdate="20190328T150741Z">
+        <seg>des thérapies précises pour chaque patient.</seg>
       </tuv>
     </tu>
     <tu>
