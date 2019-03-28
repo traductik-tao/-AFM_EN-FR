@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10553" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -338,6 +338,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T171201Z" creationid="joce" creationdate="20190328T141621Z">
         <seg>une mutation qui avait échappé jusqu'à présent à notre analyse,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>a positive effect in this trial.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T192405Z" creationid="joce" creationdate="20190328T192405Z">
+        <seg>d'effet positif dans cette étude.</seg>
       </tuv>
     </tu>
     <tu>
