@@ -536,8 +536,8 @@
       <tuv lang="EN-GB">
         <seg>because this is a rare disease,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194826Z" creationid="joce" creationdate="20190328T194826Z">
-        <seg>car il s'agit dune maladie rare,</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194900Z" creationid="joce" creationdate="20190328T194826Z">
+        <seg>car il s'agit d'une maladie rare,</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +562,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T145336Z" creationid="fred" creationdate="20190327T145240Z">
         <seg>âgés de cinq à treize ans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>but it is clustered in some ethnic populations,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T195302Z" creationid="joce" creationdate="20190328T194851Z">
+        <seg>Et qui plus est, est fréquente dans certaines populations ethniques,</seg>
       </tuv>
     </tu>
     <tu>
