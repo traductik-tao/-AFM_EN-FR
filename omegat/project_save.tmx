@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>because this is a rare disease,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194826Z" creationid="joce" creationdate="20190328T194826Z">
+        <seg>car il s'agit dune maladie rare,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>because we know already that once we detect</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T152644Z" creationid="fred" creationdate="20190327T152644Z">
@@ -1142,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>to try and find a common way of collaboration,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194803Z" creationid="joce" creationdate="20190328T194803Z">
+        <seg>pour tenter de trouver une méthode commune de collaboration,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>we have not stopped trying.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T193141Z" creationid="joce" creationdate="20190328T193141Z">
@@ -1186,6 +1202,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T175152Z" creationid="joce" creationdate="20190328T175152Z">
         <seg>dont la déficience était censée </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>with all leaders in this field,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194650Z" creationid="joce" creationdate="20190328T194650Z">
+        <seg>avec tous les acteurs de ce domaine,</seg>
       </tuv>
     </tu>
     <tu>
