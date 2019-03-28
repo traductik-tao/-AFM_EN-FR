@@ -1,0 +1,192 @@
+﻿1
+00:00:13,060 --> 00:00:15,860
+We are working on congenital muscular dystrophies,
+
+2
+00:00:15,860 --> 00:00:18,820
+which are genetic disorders of muscles
+
+3
+00:00:18,820 --> 00:00:20,320
+that are present at birth.
+
+4
+00:00:20,320 --> 00:00:22,770
+We are particularly working on a  type called
+
+5
+00:00:22,770 --> 00:00:26,620
+collagen VI-related congenital muscular dystrophy,
+
+6
+00:00:26,620 --> 00:00:28,820
+which are severe types, also known as
+
+7
+00:00:28,820 --> 00:00:31,580
+Ullrich congenital muscular dystrophy.
+
+8
+00:00:31,580 --> 00:00:34,460
+This is caused by mutations in the collagen VI genes.
+
+9
+00:00:34,460 --> 00:00:37,120
+There are 3 collagen VI genes and mutations
+
+10
+00:00:37,120 --> 00:00:40,260
+in the collagen VI genes can cause this disease.
+
+11
+00:00:40,260 --> 00:00:43,220
+We are trying to understand how the mutations
+
+12
+00:00:43,220 --> 00:00:45,740
+cause the disease and what you can do about it.
+
+13
+00:00:45,740 --> 00:00:48,800
+So for the collagen VI genes, it is interesting that
+
+14
+00:00:48,800 --> 00:00:51,500
+mutations are often acting as a dominant,
+
+15
+00:00:51,500 --> 00:00:54,240
+meaning they are causing a toxic product from
+
+16
+00:00:54,240 --> 00:00:58,350
+the mutant gene that interferes with the normal collagen VI.
+
+17
+00:00:58,350 --> 00:01:02,620
+We are devising fair pieces, trying to detoxify
+
+18
+00:01:02,620 --> 00:01:05,600
+the muscle from this product, the mutant product.
+
+19
+00:01:05,600 --> 00:01:09,780
+We are trying to "knock down" the mutation readout
+
+20
+00:01:09,780 --> 00:01:14,460
+from the mutant genes using oligo-nuclear type saRNA,
+
+21
+00:01:14,460 --> 00:01:16,580
+and all of the CRISPR cross approaches.
+
+22
+00:01:16,580 --> 00:01:21,660
+That is particularly relevant for a new and common mutation,
+
+23
+00:01:21,660 --> 00:01:23,100
+that we found in collagen VI,
+
+24
+00:01:23,100 --> 00:01:25,860
+which is a deep intronic mutation,
+
+25
+00:01:25,860 --> 00:01:29,860
+a mutation that has been hidden from our analysis so far,
+
+26
+00:01:29,860 --> 00:01:33,260
+and that causes a pseudo-exon and a toxic pseudo-exon,
+
+27
+00:01:33,260 --> 00:01:35,440
+to be spliced into the collagen VI gene.
+
+28
+00:01:35,440 --> 00:01:39,540
+We are trying to skip that out using oligo-nuclear type therapies.
+
+29
+00:01:40,420 --> 00:01:42,700
+This is a highly individualised therapy,
+
+30
+00:01:42,700 --> 00:01:46,380
+so we have to devise a therapy for each individual mutation
+
+31
+00:01:46,380 --> 00:01:48,520
+that we find in the collagen VI genes.
+
+32
+00:01:48,520 --> 00:01:51,860
+This is really a prime example of precision medicine,
+
+33
+00:01:51,860 --> 00:01:55,700
+or tailor-made medicine for a particular mutation
+
+34
+00:01:55,700 --> 00:01:57,490
+for a particular patient.
+
+35
+00:01:57,490 --> 00:01:59,860
+So that is the goal, in our laboratories,
+
+36
+00:01:59,860 --> 00:02:02,630
+to be precise about the diagnosis leading
+
+37
+00:02:02,630 --> 00:02:05,980
+to precise therapies for individual patients.
+
+38
+00:02:05,980 --> 00:02:08,780
+Organisations like the AFM will play a big role
+
+39
+00:02:08,780 --> 00:02:12,340
+in making possible that therapies become available
+
+40
+00:02:12,340 --> 00:02:14,740
+for even mutations that are very rare,
+
+41
+00:02:14,740 --> 00:02:17,620
+and for patients that are not large in number,
+
+42
+00:02:17,620 --> 00:02:23,100
+and so that is a project that by necessity
+
+43
+00:02:23,100 --> 00:02:26,070
+has to be funded by public funds,
+
+44
+00:02:26,070 --> 00:02:27,580
+by patient advocacy
+
+45
+00:02:27,580 --> 00:02:29,580
+and the AFM will play a big role in
+
+46
+00:02:29,580 --> 00:02:31,500
+making possible that the research
+
+47
+00:02:31,500 --> 00:02:32,460
+can really go down
+
+48
+00:02:32,460 --> 00:02:35,140
+to the level of the individual patients.
+
