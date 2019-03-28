@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>and all of the CRISPR cross approaches.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T141025Z" creationid="joce" creationdate="20190328T141025Z">
+        <seg>et toutes les approches transversales CRISPR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>and followed for a minimum of three years.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T145346Z" creationid="fred" creationdate="20190327T145329Z">
