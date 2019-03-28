@@ -824,8 +824,8 @@
       <tuv lang="EN-GB">
         <seg>including outcome measures,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194326Z" creationid="joce" creationdate="20190328T194326Z">
-        <seg>notamment en ce qui concerne les mesures de résultats,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T220036Z" creationid="joce" creationdate="20190328T194326Z">
+        <seg>notamment les mesures de résultats,</seg>
       </tuv>
     </tu>
     <tu>
@@ -848,8 +848,8 @@
       <tuv lang="EN-GB">
         <seg>is now underway in the United States,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T215412Z" creationid="joce" creationdate="20190328T193640Z">
-        <seg>est actuellement en cours aux États-Unis,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T215822Z" creationid="joce" creationdate="20190328T193640Z">
+        <seg>progresse actuellement aux États-Unis,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1040,8 +1040,8 @@
       <tuv lang="EN-GB">
         <seg>that we had in the study,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T215803Z" creationid="joce" creationdate="20190328T194131Z">
-        <seg>rencontrés durant notre étude :</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T220021Z" creationid="joce" creationdate="20190328T194131Z">
+        <seg>et étudiés dans nos travaux :</seg>
       </tuv>
     </tu>
     <tu>
