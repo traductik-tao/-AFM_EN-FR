@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>The message is that despite the fact</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T192634Z" creationid="joce" creationdate="20190328T192634Z">
+        <seg>Nous tenons à souligner qu'en dépit du fait</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>There are 3 collagen VI genes and mutations</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T165558Z" creationid="joce" creationdate="20190328T131300Z">
@@ -858,6 +866,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T165344Z" creationid="joce" creationdate="20190328T125701Z">
         <seg>qui sont présents dès la naissance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>that this trial has helped,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T192923Z" creationid="joce" creationdate="20190328T192923Z">
+        <seg>de la faible améliorationthat this trial has helped,</seg>
       </tuv>
     </tu>
     <tu>
