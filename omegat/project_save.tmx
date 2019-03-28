@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>from the mutant genes using oligo-nuclear type saRNA,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T140901Z" creationid="joce" creationdate="20190328T140901Z">
+        <seg>provenant des gènes mutants à l'aide d'ARNsi de type oligo-nucléaire,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>funding for a wide range of research,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T153159Z" creationid="fred" creationdate="20190327T153159Z">
