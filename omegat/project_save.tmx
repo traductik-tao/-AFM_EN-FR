@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>There are 3 collagen VI genes and mutations</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T131300Z" creationid="joce" creationdate="20190328T131300Z">
+        <seg>Il existe 3 gènes du collagène VI et des mutations </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>There are beginning to be some changes</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T152110Z" creationid="fred" creationdate="20190327T152110Z">
