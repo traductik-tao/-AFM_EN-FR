@@ -240,8 +240,8 @@
       <tuv lang="EN-GB">
         <seg>We are devising fair pieces, trying to detoxify</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T134919Z" creationid="joce" creationdate="20190328T134159Z">
-        <seg>Nous concevons des morceaux sains, dans le but de détoxifier</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T170524Z" creationid="joce" creationdate="20190328T134159Z">
+        <seg>Nous concevons des morceaux sains pour détoxifier</seg>
       </tuv>
     </tu>
     <tu>
@@ -704,8 +704,8 @@
       <tuv lang="EN-GB">
         <seg>meaning they are causing a toxic product from</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T133318Z" creationid="joce" creationdate="20190328T133318Z">
-        <seg>ce qui signifie qu'elles provoquent une substance toxique</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T170034Z" creationid="joce" creationdate="20190328T133318Z">
+        <seg>De ce fait, elles provoquent une sécrétion toxique</seg>
       </tuv>
     </tu>
     <tu>
@@ -888,8 +888,8 @@
       <tuv lang="EN-GB">
         <seg>the mutant gene that interferes with the normal collagen VI.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T133835Z" creationid="joce" creationdate="20190328T133835Z">
-        <seg>sur le gène mutant interfèrant avec le collagène VI normal.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T170051Z" creationid="joce" creationdate="20190328T133835Z">
+        <seg>du gène mutant interférant avec le collagène VI normal.</seg>
       </tuv>
     </tu>
     <tu>
