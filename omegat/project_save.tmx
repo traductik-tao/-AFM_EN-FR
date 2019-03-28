@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>This is a highly individualised therapy,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T143429Z" creationid="joce" creationdate="20190328T143429Z">
+        <seg>En tant que thérapie hautement personnalisée,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>This is caused by mutations in the collagen VI genes.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T131035Z" creationid="joce" creationdate="20190328T131035Z">
@@ -424,8 +432,8 @@
       <tuv lang="EN-GB">
         <seg>from the mutant genes using oligo-nuclear type saRNA,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T140901Z" creationid="joce" creationdate="20190328T140901Z">
-        <seg>provenant des gènes mutants à l'aide d'ARNsi de type oligo-nucléaire,</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T143007Z" creationid="joce" creationdate="20190328T140901Z">
+        <seg>provenant des gènes mutants à l'aide d'ARNsi de type oligonucléotide,</seg>
       </tuv>
     </tu>
     <tu>
