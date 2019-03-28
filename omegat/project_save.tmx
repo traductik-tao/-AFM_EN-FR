@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Some of those are not privileged people,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T204902Z" creationid="joce" creationdate="20190328T204902Z">
+        <seg>Certains ne sont pas des privilégiés,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Somewhat disappointingly, the results do not show</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T151312Z" creationid="fred" creationdate="20190327T151102Z">
