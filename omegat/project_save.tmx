@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>However, the disease is a worldwide disease,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T205617Z" creationid="joce" creationdate="20190328T205617Z">
+        <seg>Toutefois, cette maladie est répandue dans le monde entier,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>I'm working on a rather rare muscle disease</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T172709Z" creationid="joce" creationdate="20190328T162543Z">
@@ -526,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>and there are probably a couple of dozens</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T205646Z" creationid="joce" creationdate="20190328T205646Z">
+        <seg>et il existe probablement quelques dizaines de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>and there was a placebo comparator group.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T150727Z" creationid="fred" creationdate="20190327T150727Z">
@@ -898,6 +914,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T143059Z" creationid="fred" creationdate="20190327T143059Z">
         <seg>d'une insuffisance myocardique ou modifier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>of patients here in France too.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T205838Z" creationid="joce" creationdate="20190328T205838Z">
+        <seg>patients, ici en France.</seg>
       </tuv>
     </tu>
     <tu>
