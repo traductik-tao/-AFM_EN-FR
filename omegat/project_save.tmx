@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>and so that is a project that by necessity</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T151856Z" creationid="joce" creationdate="20190328T151856Z">
+        <seg>et donc un tel projet nécessite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>and that causes a pseudo-exon and a toxic pseudo-exon,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T141702Z" creationid="joce" creationdate="20190328T141702Z">
@@ -410,6 +418,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T151352Z" creationid="fred" creationdate="20190327T151352Z">
         <seg>mais nous pensons que cela s'explique en partie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>by patient advocacy</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T152539Z" creationid="joce" creationdate="20190328T152539Z">
+        <seg>par la défense des droits des patients</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,6 +514,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T142645Z" creationid="fred" creationdate="20190327T142441Z">
         <seg>une étude randomisée visant à établir si</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>has to be funded by public funds,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T151925Z" creationid="joce" creationdate="20190328T151925Z">
+        <seg>d'être financé par des fonds publics,</seg>
       </tuv>
     </tu>
     <tu>
