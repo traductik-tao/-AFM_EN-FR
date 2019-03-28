@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10553" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -280,8 +280,8 @@
       <tuv lang="EN-GB">
         <seg>We are working on congenital muscular dystrophies,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T125533Z" creationid="joce" creationdate="20190328T125533Z">
-        <seg>Nous travaillons sur les dystrophies musculaires congénitales,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T165210Z" creationid="joce" creationdate="20190328T125533Z">
+        <seg>Nous travaillons sur les dystrophies musculaires congénitales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,8 +976,8 @@
       <tuv lang="EN-GB">
         <seg>which are genetic disorders of muscles</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T125623Z" creationid="joce" creationdate="20190328T125623Z">
-        <seg>qui sont des désordres génétiques des muscles</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T165249Z" creationid="joce" creationdate="20190328T125623Z">
+        <seg>Ce sont des désordres génétiques des musclesdès</seg>
       </tuv>
     </tu>
     <tu>
