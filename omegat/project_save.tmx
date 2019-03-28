@@ -152,8 +152,8 @@
       <tuv lang="EN-GB">
         <seg>That is particularly relevant for a new and common mutation,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T141358Z" creationid="joce" creationdate="20190328T141358Z">
-        <seg>Cette technique s'avère particulièrement pertinente pour la nouvelle mutation,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T171039Z" creationid="joce" creationdate="20190328T141358Z">
+        <seg>Une approche particulièrement pertinente pour la nouvelle mutation,</seg>
       </tuv>
     </tu>
     <tu>
@@ -320,8 +320,8 @@
       <tuv lang="EN-GB">
         <seg>a mutation that has been hidden from our analysis so far,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T141621Z" creationid="joce" creationdate="20190328T141621Z">
-        <seg>une mutation qui avait échappée jusqu'à présent à notre analyse,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T171201Z" creationid="joce" creationdate="20190328T141621Z">
+        <seg>une mutation qui avait échappé jusqu'à présent à notre analyse,</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,8 +832,8 @@
       <tuv lang="EN-GB">
         <seg>that we found in collagen VI,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T141446Z" creationid="joce" creationdate="20190328T141446Z">
-        <seg>que nous avons observée dans le collagène VI,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T171117Z" creationid="joce" creationdate="20190328T141446Z">
+        <seg>couramment observée dans le collagène VI,</seg>
       </tuv>
     </tu>
     <tu>
@@ -952,8 +952,8 @@
       <tuv lang="EN-GB">
         <seg>to be spliced into the collagen VI gene.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T142256Z" creationid="joce" creationdate="20190328T142256Z">
-        <seg>devant être épissé sur le gène du collagène VI.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T171419Z" creationid="joce" creationdate="20190328T142256Z">
+        <seg>venant s'épisser sur le gène du collagène VI.</seg>
       </tuv>
     </tu>
     <tu>
