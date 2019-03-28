@@ -200,8 +200,8 @@
       <tuv lang="EN-GB">
         <seg>This is a highly individualised therapy,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T143429Z" creationid="joce" creationdate="20190328T143429Z">
-        <seg>En tant que thérapie hautement personnalisée,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T171543Z" creationid="joce" creationdate="20190328T143429Z">
+        <seg>Cette approche hautement individualisée,</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,8 +264,8 @@
       <tuv lang="EN-GB">
         <seg>We are trying to skip that out using oligo-nuclear type therapies.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T142834Z" creationid="joce" creationdate="20190328T142834Z">
-        <seg>Nous essayons d'éviter ce phénomène en utilisant des thérapies de type oligonucléotide.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T171453Z" creationid="joce" creationdate="20190328T142834Z">
+        <seg>Nous essayons d'éviter cela avec des thérapies de type oligonucléotide.</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,8 +792,8 @@
       <tuv lang="EN-GB">
         <seg>so we have to devise a therapy for each individual mutation</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T143617Z" creationid="joce" creationdate="20190328T143617Z">
-        <seg>Il sera donc indispensable de concevoir une thérapie par mutation </seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T171620Z" creationid="joce" creationdate="20190328T143617Z">
+        <seg>nécessite de concevoir une thérapie spécifique pour chaque mutation </seg>
       </tuv>
     </tu>
     <tu>
