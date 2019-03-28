@@ -208,8 +208,8 @@
       <tuv lang="EN-GB">
         <seg>The difficulty in that study was that</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T182418Z" creationid="joce" creationdate="20190328T182418Z">
-        <seg>La difficulté de cette étude résidait dans le fait</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T214629Z" creationid="joce" creationdate="20190328T182418Z">
+        <seg>Le problème de cette étude a été</seg>
       </tuv>
     </tu>
     <tu>
@@ -504,8 +504,8 @@
       <tuv lang="EN-GB">
         <seg>and that people were very variable</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T182848Z" creationid="joce" creationdate="20190328T182734Z">
-        <seg>et que la gravité des troubles</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T214817Z" creationid="joce" creationdate="20190328T182734Z">
+        <seg>avec  des troubles d'une gravité</seg>
       </tuv>
     </tu>
     <tu>
@@ -816,8 +816,8 @@
       <tuv lang="EN-GB">
         <seg>in the severity of their disorders:</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T192128Z" creationid="joce" creationdate="20190328T182820Z">
-        <seg>était très variable selon les personnes :</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T214828Z" creationid="joce" creationdate="20190328T182820Z">
+        <seg>très variable selon les personnes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -1048,8 +1048,8 @@
       <tuv lang="EN-GB">
         <seg>the cause of the disease — i.e. the deficiency,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T182116Z" creationid="joce" creationdate="20190328T182116Z">
-        <seg>être responsable de la maladie</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T214534Z" creationid="joce" creationdate="20190328T182116Z">
+        <seg>être responsable de la maladie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1168,8 +1168,8 @@
       <tuv lang="EN-GB">
         <seg>this was a short study compared</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T182516Z" creationid="joce" creationdate="20190328T182516Z">
-        <seg>qu'il s'agissait d'une étude à court-terme comparée</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T214710Z" creationid="joce" creationdate="20190328T182516Z">
+        <seg>son trop court-terme, comparé</seg>
       </tuv>
     </tu>
     <tu>
