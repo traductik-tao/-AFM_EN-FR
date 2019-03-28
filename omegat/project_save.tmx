@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>We recently had a phase-3 trial.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T164424Z" creationid="joce" creationdate="20190328T164424Z">
+        <seg>Nous avons récemment lancé un essai clinique de phase 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>We treated them with a combination of</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T145409Z" creationid="fred" creationdate="20190327T145409Z">
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T152712Z" creationid="joce" creationdate="20190328T152622Z">
         <seg>et l'AFM jouera un rôle essentiel </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>and the disease progresses slowly</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T164137Z" creationid="joce" creationdate="20190328T164137Z">
+        <seg>et la maladie progresse lentement</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>leading to a marked disability over the years.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T164212Z" creationid="joce" creationdate="20190328T164212Z">
+        <seg>conduisant à un handicap marqué au fil des ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>making possible that the research</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T152730Z" creationid="joce" creationdate="20190328T152705Z">
@@ -706,6 +730,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T145957Z" creationid="joce" creationdate="20190328T145957Z">
         <seg>ou un médicament sur mesure pour une mutation spécifique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>over several decades,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T164151Z" creationid="joce" creationdate="20190328T164151Z">
+        <seg>sur plusieurs décennies,</seg>
       </tuv>
     </tu>
     <tu>
