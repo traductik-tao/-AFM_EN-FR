@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10553" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -122,6 +122,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T152110Z" creationid="fred" creationdate="20190327T152110Z">
         <seg>Il commence à y avoir des changements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>We are particularly working on a  type called</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T130540Z" creationid="joce" creationdate="20190328T130540Z">
+        <seg>Nous travaillons en particulier sur un type appelé</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>collagen VI-related congenital muscular dystrophy,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T130652Z" creationid="joce" creationdate="20190328T130652Z">
+        <seg>dystrophie musculaire congénitale liée au collagène VI,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>ensure spreading of information</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T155044Z" creationid="fred" creationdate="20190327T155044Z">
@@ -398,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>that are present at birth.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T125701Z" creationid="joce" creationdate="20190328T125701Z">
+        <seg>qui sont présents à la naissance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>the earlier you start a treatment,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T153010Z" creationid="fred" creationdate="20190327T153010Z">
@@ -474,6 +498,22 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T155904Z" creationid="fred" creationdate="20190327T152249Z">
         <seg>il n'y a pas de différence entre principes actifs et placebos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>which are genetic disorders of muscles</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T125623Z" creationid="joce" creationdate="20190328T125623Z">
+        <seg>qui sont des désordres génétiques des muscles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>which are severe types, also known as</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T130735Z" creationid="joce" creationdate="20190328T130735Z">
+        <seg>qui sont des types graves, également connue sous le nom</seg>
       </tuv>
     </tu>
     <tu>
