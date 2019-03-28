@@ -40,8 +40,8 @@
       <tuv lang="EN-GB">
         <seg>It's an adult-onset myopathy</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T163516Z" creationid="joce" creationdate="20190328T163516Z">
-        <seg>Il s'agit dune myopathie se déclarant à l'âge adulte</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T163929Z" creationid="joce" creationdate="20190328T163516Z">
+        <seg>Il s'agit d'une myopathie se déclarant à l'âge adulte</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>Usually the onset is in the early adulthood,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T164120Z" creationid="joce" creationdate="20190328T164120Z">
+        <seg>Elle se déclare généralement au début de l'âge adulte,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>We are devising fair pieces, trying to detoxify</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T134919Z" creationid="joce" creationdate="20190328T134159Z">
@@ -360,8 +368,8 @@
       <tuv lang="EN-GB">
         <seg>and slowly progressing to affect</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T163731Z" creationid="joce" creationdate="20190328T163731Z">
-        <seg>et qui s'étend progressivement</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T163912Z" creationid="joce" creationdate="20190328T163731Z">
+        <seg>et qui s'étend aussi progressivement</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,6 +858,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T152500Z" creationid="fred" creationdate="20190327T152500Z">
         <seg>ces traitements sont bénéfiques pour le cœur des patients Duchenne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>the upper limbs too.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T163840Z" creationid="joce" creationdate="20190328T163840Z">
+        <seg>aux membres supérieurs.</seg>
       </tuv>
     </tu>
     <tu>
