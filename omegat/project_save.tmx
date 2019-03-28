@@ -160,8 +160,8 @@
       <tuv lang="EN-GB">
         <seg>Some of them were more rapidly progressing</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T184117Z" creationid="joce" creationdate="20190328T184117Z">
-        <seg>Certaines d'entre elles ont progressé plus rapidement</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T214930Z" creationid="joce" creationdate="20190328T184117Z">
+        <seg>certains montraient une aggravation plus rapide</seg>
       </tuv>
     </tu>
     <tu>
@@ -224,8 +224,8 @@
       <tuv lang="EN-GB">
         <seg>The message is that despite the fact</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T193009Z" creationid="joce" creationdate="20190328T192634Z">
-        <seg>Nous tenons à souligner qu'en dépit des résultats contrastés</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T215134Z" creationid="joce" creationdate="20190328T192634Z">
+        <seg>Nous tenons à souligner néanmoins</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +568,8 @@
       <tuv lang="EN-GB">
         <seg>as compared to others, and because of that,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T192151Z" creationid="joce" creationdate="20190328T192151Z">
-        <seg>que autres, et à cause de cette disparité,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T214945Z" creationid="joce" creationdate="20190328T192151Z">
+        <seg>que d'autres, et à cause de cette disparité,</seg>
       </tuv>
     </tu>
     <tu>
