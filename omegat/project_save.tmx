@@ -400,8 +400,8 @@
       <tuv lang="EN-GB">
         <seg>a study in such a population.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T205424Z" creationid="joce" creationdate="20190328T205424Z">
-        <seg>une étude sur ce type de population.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T221140Z" creationid="joce" creationdate="20190328T205424Z">
+        <seg>sur ce type de population.</seg>
       </tuv>
     </tu>
     <tu>
@@ -440,8 +440,8 @@
       <tuv lang="EN-GB">
         <seg>and because of that, it is hard to conduct</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T205349Z" creationid="joce" creationdate="20190328T205349Z">
-        <seg>et à cause de ces facteurs, il est difficile de mener</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T221115Z" creationid="joce" creationdate="20190328T205349Z">
+        <seg>cela impacte la fiabilité statistique d'une étude</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,8 +544,8 @@
       <tuv lang="EN-GB">
         <seg>and there are probably a couple of dozens</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T205646Z" creationid="joce" creationdate="20190328T205646Z">
-        <seg>et il existe probablement quelques dizaines de</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T221228Z" creationid="joce" creationdate="20190328T205646Z">
+        <seg>avec probablement plusieurs dizaines</seg>
       </tuv>
     </tu>
     <tu>
@@ -928,8 +928,8 @@
       <tuv lang="EN-GB">
         <seg>of patients here in France too.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T205838Z" creationid="joce" creationdate="20190328T205838Z">
-        <seg>patients, ici en France.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T221241Z" creationid="joce" creationdate="20190328T205838Z">
+        <seg>de patients, ici en France.</seg>
       </tuv>
     </tu>
     <tu>
