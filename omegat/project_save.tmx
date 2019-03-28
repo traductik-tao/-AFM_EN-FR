@@ -48,8 +48,8 @@
       <tuv lang="EN-GB">
         <seg>It's an adult-onset myopathy</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T163929Z" creationid="joce" creationdate="20190328T163516Z">
-        <seg>Il s'agit d'une myopathie se déclarant à l'âge adulte</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T172846Z" creationid="joce" creationdate="20190328T163516Z">
+        <seg>Il s'agit d'une myopathie se déclarant à l'âge adulte,</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +384,8 @@
       <tuv lang="EN-GB">
         <seg>and slowly progressing to affect</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T163912Z" creationid="joce" creationdate="20190328T163731Z">
-        <seg>et qui s'étend aussi progressivement</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T172905Z" creationid="joce" creationdate="20190328T163731Z">
+        <seg>et qui s'étend ensuite progressivement</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +416,8 @@
       <tuv lang="EN-GB">
         <seg>and the disease progresses slowly</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T164137Z" creationid="joce" creationdate="20190328T164137Z">
-        <seg>et la maladie progresse lentement</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T172928Z" creationid="joce" creationdate="20190328T164137Z">
+        <seg>puis la maladie progresse lentement</seg>
       </tuv>
     </tu>
     <tu>
