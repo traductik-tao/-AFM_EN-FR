@@ -40,8 +40,8 @@
       <tuv lang="EN-GB">
         <seg>In fact this is the first phase-3 trial</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T213358Z" creationid="joce" creationdate="20190328T164600Z">
-        <seg>En fait, il s'agit d'une première mondiale</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T213607Z" creationid="joce" creationdate="20190328T164600Z">
+        <seg>... en fait, le premier essai de ce type</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +352,8 @@
       <tuv lang="EN-GB">
         <seg>We recently had a phase-3 trial.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T164424Z" creationid="joce" creationdate="20190328T164424Z">
-        <seg>Nous avons récemment lancé un essai clinique de phase 3.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T213547Z" creationid="joce" creationdate="20190328T164424Z">
+        <seg>Nous avons récemment lancé un essai clinique de phase 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,7 +792,7 @@
       <tuv lang="EN-GB">
         <seg>in distal myopathy</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T164624Z" creationid="joce" creationdate="20190328T164624Z">
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T213620Z" creationid="joce" creationdate="20190328T164624Z">
         <seg>en myopathie distale</seg>
       </tuv>
     </tu>
@@ -1016,8 +1016,8 @@
       <tuv lang="EN-GB">
         <seg>that was conducted, and unfortunately,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T164723Z" creationid="joce" creationdate="20190328T164723Z">
-        <seg>ayant été mené, et malheureusement,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T213639Z" creationid="joce" creationdate="20190328T164723Z">
+        <seg>dans le monde, mais malheureusement,</seg>
       </tuv>
     </tu>
     <tu>
