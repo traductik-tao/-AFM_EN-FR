@@ -1,0 +1,212 @@
+﻿1
+00:00:13,060 --> 00:00:16,900
+Je travaille sur une maladie musculaire plutôt rare :
+
+2
+00:00:16,900 --> 00:00:19,700
+la myopathie GNE,
+
+3
+00:00:19,700 --> 00:00:22,740
+anciennement appelée
+
+4
+00:00:22,740 --> 00:00:25,300
+myopathie héréditaire à inclusions,
+
+5
+00:00:25,300 --> 00:00:29,580
+ou myopathie distale à vacuoles bordées.
+
+6
+00:00:29,580 --> 00:00:32,340
+Il s'agit d'une myopathie se déclarant à l'âge adulte,
+
+7
+00:00:32,340 --> 00:00:36,660
+commençant dans les muscles distaux des jambes,
+
+8
+00:00:36,660 --> 00:00:39,620
+et qui s'étend ensuite progressivement
+
+9
+00:00:39,620 --> 00:00:43,780
+aux membres supérieurs.
+
+10
+00:00:43,780 --> 00:00:47,740
+Elle se déclare généralement au début de l'âge adulte,
+
+11
+00:00:47,740 --> 00:00:49,980
+puis la maladie progresse lentement
+
+12
+00:00:49,980 --> 00:00:52,660
+sur plusieurs décennies,
+
+13
+00:00:52,660 --> 00:00:57,140
+conduisant à un handicap marqué au fil des ans.
+
+14
+00:00:57,140 --> 00:01:02,020
+Nous avons récemment lancé un essai clinique de phase 3.
+
+15
+00:01:02,020 --> 00:01:06,180
+En réalité, il s'agit du premier essai clinique de phase 3
+
+16
+00:01:06,180 --> 00:01:08,060
+en myopathie distale
+
+17
+00:01:08,060 --> 00:01:11,900
+ayant été mené, et malheureusement,
+
+18
+00:01:11,900 --> 00:01:14,340
+il n'a démontré aucune amélioration
+
+19
+00:01:14,340 --> 00:01:17,140
+avec une supplémentation en acide sialique,
+
+20
+00:01:17,140 --> 00:01:19,140
+dont la déficience était censée 
+
+21
+00:01:19,140 --> 00:01:24,380
+être responsable de la maladie
+
+22
+00:01:24,380 --> 00:01:29,100
+La difficulté de cette étude résidait dans le fait
+
+23
+00:01:29,100 --> 00:01:32,860
+qu'il s'agissait d'une étude à court-terme comparée
+
+24
+00:01:32,860 --> 00:01:35,780
+à la progression de la maladie,
+
+25
+00:01:35,780 --> 00:01:41,220
+et que la gravité des troubles
+
+26
+00:01:41,220 --> 00:01:44,780
+était très variable selon les personnes:
+
+27
+00:01:44,780 --> 00:01:47,780
+Certaines d'entre elles ont progressé plus rapidement
+
+28
+00:01:47,780 --> 00:01:51,580
+as compared to others, and because of that,
+
+29
+00:01:51,580 --> 00:01:54,620
+la supplémentation n'a pas montré
+
+30
+00:01:54,620 --> 00:01:58,340
+a positive effect in this trial.
+
+31
+00:02:00,300 --> 00:02:03,020
+The message is that despite the fact
+
+32
+00:02:03,020 --> 00:02:04,740
+that this trial has helped,
+
+33
+00:02:04,740 --> 00:02:07,740
+we have not stopped trying.
+
+34
+00:02:07,740 --> 00:02:11,100
+First of all, we have learned a few things
+
+35
+00:02:11,100 --> 00:02:14,260
+from the supplementation with sialic acid,
+
+36
+00:02:14,260 --> 00:02:18,220
+and a rather similar metabolic approach
+
+37
+00:02:18,220 --> 00:02:21,700
+is now underway in the United States,
+
+38
+00:02:21,700 --> 00:02:25,780
+learning from previous problems
+
+39
+00:02:25,780 --> 00:02:27,780
+that we had in the study,
+
+40
+00:02:27,780 --> 00:02:31,020
+including outcome measures,
+
+41
+00:02:31,020 --> 00:02:35,060
+how to follow patients and for how long...
+
+42
+00:02:35,060 --> 00:02:41,940
+We had in fact a joint meeting, a workshop,
+
+43
+00:02:41,940 --> 00:02:45,300
+with all leaders in this field,
+
+44
+00:02:45,300 --> 00:02:49,370
+to try and find a common way of collaboration,
+
+45
+00:02:49,370 --> 00:02:51,540
+because this is a rare disease,
+
+46
+00:02:51,540 --> 00:02:58,880
+but it is clustered in some ethnic populations,
+
+47
+00:02:58,880 --> 00:03:01,980
+which need to be approached.
+
+48
+00:03:01,980 --> 00:03:07,700
+Some of those are not privileged people,
+
+49
+00:03:07,700 --> 00:03:10,500
+and because of that, it is hard to conduct
+
+50
+00:03:10,500 --> 00:03:15,140
+a study in such a population.
+
+51
+00:03:15,140 --> 00:03:18,320
+However, the disease is a worldwide disease,
+
+52
+00:03:18,320 --> 00:03:23,230
+and there are probably a couple of dozens
+
+53
+00:03:23,230 --> 00:03:26,140
+of patients here in France too.
+

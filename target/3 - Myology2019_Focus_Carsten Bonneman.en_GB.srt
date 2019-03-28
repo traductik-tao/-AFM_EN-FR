@@ -1,0 +1,192 @@
+﻿1
+00:00:13,060 --> 00:00:15,860
+Nous travaillons sur les dystrophies musculaires congénitales.
+
+2
+00:00:15,860 --> 00:00:18,820
+Ce sont des désordres génétiques des muscles
+
+3
+00:00:18,820 --> 00:00:20,320
+qui sont présents dès la naissance.
+
+4
+00:00:20,320 --> 00:00:22,770
+Nous travaillons en particulier sur un type appelé
+
+5
+00:00:22,770 --> 00:00:26,620
+dystrophie musculaire congénitale liée au collagène VI.
+
+6
+00:00:26,620 --> 00:00:28,820
+Ce sont des types graves, également connus sous le nom
+
+7
+00:00:28,820 --> 00:00:31,580
+de dystrophie musculaire congénitale d'Ullrich,
+
+8
+00:00:31,580 --> 00:00:34,460
+liée à des mutations sur les gènes du collagène VI.
+
+9
+00:00:34,460 --> 00:00:37,120
+Il existe 3 gènes du collagène VI, et des mutations 
+
+10
+00:00:37,120 --> 00:00:40,260
+sur les gènes du collagène VI peuvent causer cette maladie.
+
+11
+00:00:40,260 --> 00:00:43,220
+Nous essayons de comprendre comment les mutations
+
+12
+00:00:43,220 --> 00:00:45,740
+provoquent la maladie, et les solutions qui peuvent être apportées.
+
+13
+00:00:45,740 --> 00:00:48,800
+Pour les gènes du collagène VI, il est intéressant de noter
+
+14
+00:00:48,800 --> 00:00:51,500
+que les mutations sont souvent dominantes.
+
+15
+00:00:51,500 --> 00:00:54,240
+De ce fait, elles provoquent une sécrétion toxique
+
+16
+00:00:54,240 --> 00:00:58,350
+du gène mutant interférant avec le collagène VI normal.
+
+17
+00:00:58,350 --> 00:01:02,620
+Notre approche consiste à créer des "morceaux sains"
+
+18
+00:01:02,620 --> 00:01:05,600
+afin de détoxifier le muscle de cette substance mutante.
+
+19
+00:01:05,600 --> 00:01:09,780
+Nous essayons ainsi d'"enrayer" la lecture de la mutation
+
+20
+00:01:09,780 --> 00:01:14,460
+provenant des gènes mutants à l'aide d'ARNsi de type oligonucléotide,
+
+21
+00:01:14,460 --> 00:01:16,580
+nous appuyant sur les approches transversales CRISPR.
+
+22
+00:01:16,580 --> 00:01:21,660
+Une approche particulièrement pertinente pour la nouvelle mutation,
+
+23
+00:01:21,660 --> 00:01:23,100
+couramment observée dans le collagène VI,
+
+24
+00:01:23,100 --> 00:01:25,860
+qui est une mutation intronique profonde,
+
+25
+00:01:25,860 --> 00:01:29,860
+une mutation qui avait échappé jusqu'à présent à notre analyse,
+
+26
+00:01:29,860 --> 00:01:33,260
+et qui provoque un pseudo-exon et un pseudo-exon toxique,
+
+27
+00:01:33,260 --> 00:01:35,440
+venant s'épisser sur le gène du collagène VI.
+
+28
+00:01:35,440 --> 00:01:39,540
+Nous essayons d'éviter cela avec des thérapies de type oligonucléotide.
+
+29
+00:01:40,420 --> 00:01:42,700
+Cette approche hautement individualisée,
+
+30
+00:01:42,700 --> 00:01:46,380
+nécessite de concevoir une thérapie spécifique pour chaque mutation 
+
+31
+00:01:46,380 --> 00:01:48,520
+découverte sur les gènes du collagène VI.
+
+32
+00:01:48,520 --> 00:01:51,860
+Vraiment un excellent exemple de la médecine de précision,
+
+33
+00:01:51,860 --> 00:01:55,700
+avec un médicament sur mesure pour chaque mutation
+
+34
+00:01:55,700 --> 00:01:57,490
+et pour chaque patient.
+
+35
+00:01:57,490 --> 00:01:59,860
+L'objectif principal de nos laboratoires
+
+36
+00:01:59,860 --> 00:02:02,630
+est donc d'être précis sur le diagnostic, afin d'obtenir
+
+37
+00:02:02,630 --> 00:02:05,980
+des thérapies précises pour chaque patient.
+
+38
+00:02:05,980 --> 00:02:08,780
+Des entités comme l'AFM jouent un rôle déterminant
+
+39
+00:02:08,780 --> 00:02:12,340
+en nous permettant d'aboutir à des thérapies
+
+40
+00:02:12,340 --> 00:02:14,740
+même pour des mutations très rares,
+
+41
+00:02:14,740 --> 00:02:17,620
+et pour un petit nombre de patients.
+
+42
+00:02:17,620 --> 00:02:23,100
+Un tel projet nécessite, inévitablement,
+
+43
+00:02:23,100 --> 00:02:26,070
+un financement par des fonds publics,
+
+44
+00:02:26,070 --> 00:02:27,580
+ou par des associations de patients.
+
+45
+00:02:27,580 --> 00:02:29,580
+En cela, l'AFM joue un rôle essentiel 
+
+46
+00:02:29,580 --> 00:02:31,500
+en faisant en sorte que la recherche,
+
+47
+00:02:31,500 --> 00:02:32,460
+et surtout ses résultats,
+
+48
+00:02:32,460 --> 00:02:35,140
+arrivent jusqu'à chaque patient.
+

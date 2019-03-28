@@ -16,7 +16,7 @@ sur un public à la fois pédiatrique et adulte
 
 5
 00:00:23,340 --> 00:00:25,820
-souffrant de pathologies musculaires héréditaires.
+souffrant de pathologies musculaires héréditaires..
 
 6
 00:00:25,820 --> 00:00:30,340
@@ -116,7 +116,7 @@ l'évolution d'une faiblesse musculaire venant d'apparaitre
 
 30
 00:01:38,630 --> 00:01:42,340
-est quasi nulle sur une période de trois ans.
+won't show in a three-year time period.
 
 31
 00:01:42,340 --> 00:01:45,580
@@ -184,7 +184,7 @@ plus il est difficile de démontrer son bénéfice !
 
 47
 00:02:31,900 --> 00:02:34,940
- L’AFM joue un rôle essentiel en assurant le financement
+L’AFM joue un rôle essentiel en assurant le financement
 
 48
 00:02:34,940 --> 00:02:38,740
@@ -228,7 +228,7 @@ La mise en réseau des connaissances aussi :
 
 58
 00:03:03,900 --> 00:03:06,780
- grâce aux rencontres lors d'événements comme aujourd'hui,
+grâce aux rencontres lors d'événements comme aujourd'hui,
 
 59
 00:03:06,780 --> 00:03:08,780
