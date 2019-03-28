@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>We had in fact a joint meeting, a workshop,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194622Z" creationid="joce" creationdate="20190328T194622Z">
+        <seg>Nous avons organisé conjointement une réunion, un atelier,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>We recently had a phase-3 trial.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T164424Z" creationid="joce" creationdate="20190328T164424Z">
@@ -698,6 +706,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T163019Z" creationid="joce" creationdate="20190328T163019Z">
         <seg>myopathie héréditaire à inclusions,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>how to follow patients and for how long...</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194354Z" creationid="joce" creationdate="20190328T194354Z">
+        <seg>comment suivre les patients et pour quelle durée ...</seg>
       </tuv>
     </tu>
     <tu>
