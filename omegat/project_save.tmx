@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>this was a short study compared</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T182516Z" creationid="joce" creationdate="20190328T182516Z">
+        <seg>qu'il s'agissait d'une étude à court-terme comparée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>to be precise about the diagnosis leading</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T171928Z" creationid="joce" creationdate="20190328T150648Z">
@@ -978,6 +986,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T171950Z" creationid="joce" creationdate="20190328T150741Z">
         <seg>des thérapies précises pour chaque patient.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>to the disease progression,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T182534Z" creationid="joce" creationdate="20190328T182534Z">
+        <seg>à la progression de la maladie,</seg>
       </tuv>
     </tu>
     <tu>
