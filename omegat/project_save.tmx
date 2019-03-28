@@ -126,6 +126,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>This is caused by mutations in the collagen VI genes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T131035Z" creationid="joce" creationdate="20190328T131035Z">
+        <seg>Elle est liée à des mutations sur les gènes du collagène VI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Ullrich congenital muscular dystrophy.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T130813Z" creationid="joce" creationdate="20190328T130813Z">
+        <seg>de dystrophie musculaire congénitale d'Ullrich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>We are particularly working on a  type called</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T130540Z" creationid="joce" creationdate="20190328T130540Z">
