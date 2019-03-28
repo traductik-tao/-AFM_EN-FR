@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>We are trying to skip that out using oligo-nuclear type therapies.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T142834Z" creationid="joce" creationdate="20190328T142834Z">
+        <seg>Nous essayons d'éviter ce phénomène en utilisant des thérapies de type oligonucléotide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>We are trying to understand how the mutations</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T131443Z" creationid="joce" creationdate="20190328T131443Z">
