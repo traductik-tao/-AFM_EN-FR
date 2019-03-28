@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>including outcome measures,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194326Z" creationid="joce" creationdate="20190328T194326Z">
+        <seg>notamment en ce qui concerne les mesures de résultats,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>inherited neuromuscular disorders.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T165025Z" creationid="fred" creationdate="20190327T140538Z">
@@ -778,6 +786,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T164212Z" creationid="joce" creationdate="20190328T164212Z">
         <seg>conduisant à un handicap marqué au fil des ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>learning from previous problems</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194035Z" creationid="joce" creationdate="20190328T194035Z">
+        <seg>apprendre des problèmes précédents</seg>
       </tuv>
     </tu>
     <tu>
@@ -930,6 +946,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T171117Z" creationid="joce" creationdate="20190328T141446Z">
         <seg>couramment observée dans le collagène VI,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>that we had in the study,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194131Z" creationid="joce" creationdate="20190328T194131Z">
+        <seg>auxquels nous avons été confrontés pendant l'étude,</seg>
       </tuv>
     </tu>
     <tu>
