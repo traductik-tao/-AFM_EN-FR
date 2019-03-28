@@ -8,8 +8,8 @@
       <tuv lang="EN-GB">
         <seg>I'm working on a rather rare muscle disease</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T162543Z" creationid="joce" creationdate="20190328T162543Z">
-        <seg>Je travaille sur une maladie musculaire plutôt rare</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T172709Z" creationid="joce" creationdate="20190328T162543Z">
+        <seg>Je travaille sur une maladie musculaire plutôt rare :</seg>
       </tuv>
     </tu>
     <tu>
@@ -32,8 +32,8 @@
       <tuv lang="EN-GB">
         <seg>In the past, it was called also</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T162916Z" creationid="joce" creationdate="20190328T162857Z">
-        <seg>Anciennement appelée aussi</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T172751Z" creationid="joce" creationdate="20190328T162857Z">
+        <seg>anciennement appelée</seg>
       </tuv>
     </tu>
     <tu>
@@ -528,8 +528,8 @@
       <tuv lang="EN-GB">
         <seg>called GNE myopathy.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T162637Z" creationid="joce" creationdate="20190328T162637Z">
-        <seg>appelée myopathie GNE.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T172732Z" creationid="joce" creationdate="20190328T162637Z">
+        <seg>la myopathie GNE,</seg>
       </tuv>
     </tu>
     <tu>
@@ -968,8 +968,8 @@
       <tuv lang="EN-GB">
         <seg>to the level of the individual patients.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T152954Z" creationid="joce" creationdate="20190328T152954Z">
-        <seg>aux besoins spécifiques à chaque patient.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T172620Z" creationid="joce" creationdate="20190328T152954Z">
+        <seg>arrivent jusqu'à chaque patient.</seg>
       </tuv>
     </tu>
     <tu>
