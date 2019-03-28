@@ -856,8 +856,8 @@
       <tuv lang="EN-GB">
         <seg>it did not show any improvement</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T174830Z" creationid="joce" creationdate="20190328T164842Z">
-        <seg>il n'a démontré aucune amélioration</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T213720Z" creationid="joce" creationdate="20190328T164842Z">
+        <seg>aucune amélioration n'est ressortie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1288,8 +1288,8 @@
       <tuv lang="EN-GB">
         <seg>with supplementation of sialic acid,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T174716Z" creationid="joce" creationdate="20190328T174716Z">
-        <seg>avec une supplémentation en acide sialique,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T213857Z" creationid="joce" creationdate="20190328T174716Z">
+        <seg>de la supplémentation  testé en acide sialique</seg>
       </tuv>
     </tu>
     <tu>
