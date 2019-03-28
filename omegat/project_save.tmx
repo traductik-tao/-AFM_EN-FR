@@ -216,8 +216,8 @@
       <tuv lang="EN-GB">
         <seg>This is really a prime example of precision medicine,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T145808Z" creationid="joce" creationdate="20190328T145752Z">
-        <seg>C’est vraiment un excellent exemple de la médecine de précision,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T171702Z" creationid="joce" creationdate="20190328T145752Z">
+        <seg>Vraiment un excellent exemple de la médecine de précision,</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,8 +752,8 @@
       <tuv lang="EN-GB">
         <seg>or tailor-made medicine for a particular mutation</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T145957Z" creationid="joce" creationdate="20190328T145957Z">
-        <seg>ou un médicament sur mesure pour une mutation spécifique</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T171731Z" creationid="joce" creationdate="20190328T145957Z">
+        <seg>avec un médicament sur mesure pour chaque mutation</seg>
       </tuv>
     </tu>
     <tu>
@@ -944,8 +944,8 @@
       <tuv lang="EN-GB">
         <seg>to be precise about the diagnosis leading</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T150841Z" creationid="joce" creationdate="20190328T150648Z">
-        <seg>est d'être précis sur le diagnostic afin</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T171928Z" creationid="joce" creationdate="20190328T150648Z">
+        <seg>est donc d'être précis sur le diagnostic, afin d'obtenir</seg>
       </tuv>
     </tu>
     <tu>
