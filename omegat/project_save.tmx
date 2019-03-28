@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>So for the collagen VI genes, it is interesting that</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T131950Z" creationid="joce" creationdate="20190328T131950Z">
+        <seg>Par conséquent, pour les gènes du collagène VI, il est intéressant de noter que</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>So we're hoping to follow the patients for longer.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T152000Z" creationid="fred" creationdate="20190327T152000Z">
