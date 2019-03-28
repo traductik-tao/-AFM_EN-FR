@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10553" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="EN-GB">
         <seg>In the past, it was called also</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T172751Z" creationid="joce" creationdate="20190328T162857Z">
-        <seg>anciennement appelée</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T212319Z" creationid="joce" creationdate="20190328T162857Z">
+        <seg>anciennement appelée aussi</seg>
       </tuv>
     </tu>
     <tu>
@@ -64,8 +64,8 @@
       <tuv lang="EN-GB">
         <seg>It's an adult-onset myopathy</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T172846Z" creationid="joce" creationdate="20190328T163516Z">
-        <seg>Il s'agit d'une myopathie se déclarant à l'âge adulte,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T212432Z" creationid="joce" creationdate="20190328T163516Z">
+        <seg>Cette maladie se déclare à l'âge adulte,</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +338,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T194622Z" creationid="joce" creationdate="20190328T194622Z">
         <seg>Nous avons organisé conjointement une réunion, un atelier,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>We have been studying myostatin inhibition</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T212152Z" creationid="fred" creationdate="20190328T212152Z">
+        <seg>We have been studying myostatin inhibition</seg>
       </tuv>
     </tu>
     <tu>
@@ -760,8 +768,8 @@
       <tuv lang="EN-GB">
         <seg>hereditary inclusion body myopathy,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T163019Z" creationid="joce" creationdate="20190328T163019Z">
-        <seg>myopathie héréditaire à inclusions,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T212330Z" creationid="joce" creationdate="20190328T163019Z">
+        <seg>"myopathie héréditaire à inclusions",</seg>
       </tuv>
     </tu>
     <tu>
@@ -928,8 +936,8 @@
       <tuv lang="EN-GB">
         <seg>or distal myopathy with rimmed vacuoles.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T163143Z" creationid="joce" creationdate="20190328T163143Z">
-        <seg>ou myopathie distale à vacuoles bordées.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T212343Z" creationid="joce" creationdate="20190328T163143Z">
+        <seg>ou "myopathie distale à vacuoles bordées".</seg>
       </tuv>
     </tu>
     <tu>
