@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>a mutation that has been hidden from our analysis so far,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T141621Z" creationid="joce" creationdate="20190328T141621Z">
+        <seg>une mutation qui avait échappée jusqu'à présent à notre analyse,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>and I work very closely with</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T141148Z" creationid="fred" creationdate="20190327T141148Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T153702Z" creationid="fred" creationdate="20190327T153403Z">
         <seg>Cet organisme assure également un équilibre entre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>and that causes a pseudo-exon and a toxic pseudo-exon,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T141702Z" creationid="joce" creationdate="20190328T141702Z">
+        <seg>et qui provoque un pseudo-exon et un pseudo-exon toxique,</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>that we found in collagen VI,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T141446Z" creationid="joce" creationdate="20190328T141446Z">
+        <seg>que nous avons observée dans le collagène VI,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>the earlier you start a treatment,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T153010Z" creationid="fred" creationdate="20190327T153010Z">
@@ -642,6 +666,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T130735Z" creationid="joce" creationdate="20190328T130735Z">
         <seg>qui sont des types graves, également connue sous le nom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>which is a deep intronic mutation,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T141512Z" creationid="joce" creationdate="20190328T141512Z">
+        <seg>qui est une mutation intronique profonde,</seg>
       </tuv>
     </tu>
     <tu>
