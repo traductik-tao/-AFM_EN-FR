@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>This is really a prime example of precision medicine,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T145752Z" creationid="joce" creationdate="20190328T145752Z">
+        <seg>dC’est vraiment un excellent exemple de la médecine de précision,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Ullrich congenital muscular dystrophy.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T130813Z" creationid="joce" creationdate="20190328T130813Z">
@@ -550,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>so we have to devise a therapy for each individual mutation</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T143617Z" creationid="joce" creationdate="20190328T143617Z">
+        <seg>Il sera donc indispensable de concevoir une thérapie par mutation </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>that after three years of treatment,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T155845Z" creationid="fred" creationdate="20190327T152206Z">
@@ -562,6 +578,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T125701Z" creationid="joce" creationdate="20190328T125701Z">
         <seg>qui sont présents à la naissance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>that we find in the collagen VI genes.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T143636Z" creationid="joce" creationdate="20190328T143636Z">
+        <seg>Découverte sur les gènes du collagène VI.</seg>
       </tuv>
     </tu>
     <tu>
