@@ -8,8 +8,8 @@
       <tuv lang="EN-GB">
         <seg>First of all, we have learned a few things</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T193345Z" creationid="joce" creationdate="20190328T193345Z">
-        <seg>Tout d'abord, nous avons appris beaucoup de choses</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T215335Z" creationid="joce" creationdate="20190328T193345Z">
+        <seg>Tout d'abord, nous avons beaucoup appris</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,8 +424,8 @@
       <tuv lang="EN-GB">
         <seg>and a rather similar metabolic approach</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T193854Z" creationid="joce" creationdate="20190328T193459Z">
-        <seg>une approche métabolique assez similaire</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T215400Z" creationid="joce" creationdate="20190328T193459Z">
+        <seg>et une approche métabolique assez similaire</seg>
       </tuv>
     </tu>
     <tu>
@@ -736,8 +736,8 @@
       <tuv lang="EN-GB">
         <seg>from the supplementation with sialic acid,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T193841Z" creationid="joce" creationdate="20190328T193444Z">
-        <seg>Concernant la supplémentation en acide sialique,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T215345Z" creationid="joce" creationdate="20190328T193444Z">
+        <seg>concernant la supplémentation en acide sialique,</seg>
       </tuv>
     </tu>
     <tu>
@@ -848,8 +848,8 @@
       <tuv lang="EN-GB">
         <seg>is now underway in the United States,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T193923Z" creationid="joce" creationdate="20190328T193640Z">
-        <seg>était actuellement en cours aux États-Unis,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T215412Z" creationid="joce" creationdate="20190328T193640Z">
+        <seg>est actuellement en cours aux États-Unis,</seg>
       </tuv>
     </tu>
     <tu>
@@ -872,8 +872,8 @@
       <tuv lang="EN-GB">
         <seg>learning from previous problems</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T194035Z" creationid="joce" creationdate="20190328T194035Z">
-        <seg>apprendre des problèmes précédents</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T215525Z" creationid="joce" creationdate="20190328T194035Z">
+        <seg>à partir des problèmes rencontrés</seg>
       </tuv>
     </tu>
     <tu>
@@ -1008,8 +1008,8 @@
       <tuv lang="EN-GB">
         <seg>that this trial has helped,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T193057Z" creationid="joce" creationdate="20190328T192923Z">
-        <seg>cette étude nous a aidés à progresser,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T215149Z" creationid="joce" creationdate="20190328T192923Z">
+        <seg>que cette étude nous a aidés à progresser,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1224,8 +1224,8 @@
       <tuv lang="EN-GB">
         <seg>we have not stopped trying.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T193141Z" creationid="joce" creationdate="20190328T193141Z">
-        <seg>car nous n'avons pas cessé d'essayer.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T215300Z" creationid="joce" creationdate="20190328T193141Z">
+        <seg>et que nous continuons nos efforts.</seg>
       </tuv>
     </tu>
     <tu>
