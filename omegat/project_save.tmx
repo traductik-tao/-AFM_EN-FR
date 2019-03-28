@@ -168,8 +168,8 @@
       <tuv lang="EN-GB">
         <seg>Some of those are not privileged people,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T204902Z" creationid="joce" creationdate="20190328T204902Z">
-        <seg>Certains ne sont pas des privilégiés,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T221028Z" creationid="joce" creationdate="20190328T204902Z">
+        <seg>car certains patients étant socialement marginalisés,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1264,8 +1264,8 @@
       <tuv lang="EN-GB">
         <seg>which need to be approached.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T195554Z" creationid="joce" creationdate="20190328T195554Z">
-        <seg>une question à prendre en compte.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T220855Z" creationid="joce" creationdate="20190328T195554Z">
+        <seg>— une question à prendre en compte,</seg>
       </tuv>
     </tu>
     <tu>
