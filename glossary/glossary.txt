@@ -9,3 +9,4 @@ perindopril	périndopril	Le périndopril est un inhibiteur de l'enzyme de conver
 beta blocker	bêta-bloquant
 prepared bisoprolol	préparation de bisoprolol
 comparator group	groupe de comparaison
+phase-3 trial	essai clinique de phase 3
