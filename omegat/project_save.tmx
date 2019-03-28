@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>That is particularly relevant for a new and common mutation,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T141358Z" creationid="joce" creationdate="20190328T141358Z">
+        <seg>Cette technique s'avère particulièrement pertinente pour la nouvelle mutation,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>The AFM I think is essential to maintaining</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T153644Z" creationid="fred" creationdate="20190327T153443Z">
