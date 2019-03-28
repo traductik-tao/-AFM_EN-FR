@@ -40,8 +40,8 @@
       <tuv lang="EN-GB">
         <seg>Organisations like the AFM will play a big role</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T151105Z" creationid="joce" creationdate="20190328T151105Z">
-        <seg>Des organisations comme l'AFM joueront un rôle important</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T151213Z" creationid="joce" creationdate="20190328T151105Z">
+        <seg>Des associations comme l'AFM joueront un rôle déterminant</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +490,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T142853Z" creationid="fred" creationdate="20190327T142759Z">
         <seg>pourrait retarder chez les patients Duchenne l’apparition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>in making possible that therapies become available</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T151558Z" creationid="joce" creationdate="20190328T151558Z">
+        <seg>en facilitant l'accès aux thérapies</seg>
       </tuv>
     </tu>
     <tu>
