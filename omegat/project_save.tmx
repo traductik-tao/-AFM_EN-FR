@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>as compared to others, and because of that,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190328T192151Z" creationid="joce" creationdate="20190328T192151Z">
+        <seg>que autres, et à cause de cette disparité,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>at the moment we have to conclude,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T152154Z" creationid="fred" creationdate="20190327T152154Z">
