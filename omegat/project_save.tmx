@@ -240,8 +240,8 @@
       <tuv lang="EN-GB">
         <seg>We are devising fair pieces, trying to detoxify</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T170524Z" creationid="joce" creationdate="20190328T134159Z">
-        <seg>Nous concevons des morceaux sains pour détoxifier</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T170702Z" creationid="joce" creationdate="20190328T134159Z">
+        <seg>Notre approche consiste à créer des "morceaux sains"</seg>
       </tuv>
     </tu>
     <tu>
@@ -256,8 +256,8 @@
       <tuv lang="EN-GB">
         <seg>We are trying to "knock down" the mutation readout</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T140158Z" creationid="joce" creationdate="20190328T140158Z">
-        <seg>Nous essayons d'enrayer la mutation</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T170820Z" creationid="joce" creationdate="20190328T140158Z">
+        <seg>Nous essayons ainsi d'"enrayer" la lecture de la mutation</seg>
       </tuv>
     </tu>
     <tu>
@@ -880,8 +880,8 @@
       <tuv lang="EN-GB">
         <seg>the muscle from this product, the mutant product.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190328T135013Z" creationid="joce" creationdate="20190328T134329Z">
-        <seg>le muscle de cette substance, cette substance mutante.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190328T170715Z" creationid="joce" creationdate="20190328T134329Z">
+        <seg>afin de détoxifier le muscle de cette substance mutante.</seg>
       </tuv>
     </tu>
     <tu>
