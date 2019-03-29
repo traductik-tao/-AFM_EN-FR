@@ -200,8 +200,8 @@
       <tuv lang="EN-GB">
         <seg>It was called the neuromuscular junction,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T144925Z" creationid="fred" creationdate="20190329T142342Z">
-        <seg>Appelée la jonction neuromusculaire,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T203020Z" creationid="fred" creationdate="20190329T142342Z">
+        <seg>On parle aussi de jonction neuromusculaire :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2056,8 +2056,8 @@
       <tuv lang="EN-GB">
         <seg>where nerve meets muscle.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T145113Z" creationid="fred" creationdate="20190329T142343Z">
-        <seg>à l'endroit où le nerf rencontre le muscle.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T203112Z" creationid="fred" creationdate="20190329T142343Z">
+        <seg>la zone de contact entre muscle et nerf.</seg>
       </tuv>
     </tu>
     <tu>
