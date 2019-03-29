@@ -176,8 +176,8 @@
       <tuv lang="EN-GB">
         <seg>It interferes with splicing very efficiently.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T154051Z" creationid="fred" creationdate="20190329T142410Z">
-        <seg>Il interfère très efficacement avec l'épissure.</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T154112Z" creationid="fred" creationdate="20190329T142410Z">
+        <seg>Il interfère très efficacement avec l'épissage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -288,8 +288,8 @@
       <tuv lang="EN-GB">
         <seg>So in that case, we are directing our splicing RNA,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142411Z" creationid="fred" creationdate="20190329T142411Z">
-        <seg>Donc, dans ce cas, nous dirigeons notre ARN d'épissage,</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T154447Z" creationid="fred" creationdate="20190329T142411Z">
+        <seg>Donc, dans ce cas, nous dirigeons notre épissage de l'ARN,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1144,8 +1144,8 @@
       <tuv lang="EN-GB">
         <seg>can interfere with splicing.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142409Z" creationid="fred" creationdate="20190329T142409Z">
-        <seg>peut interférer avec l'épissure.</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T154101Z" creationid="fred" creationdate="20190329T142409Z">
+        <seg>peut interférer avec l'épissage.</seg>
       </tuv>
     </tu>
     <tu>
