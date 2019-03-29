@@ -88,8 +88,8 @@
       <tuv lang="EN-GB">
         <seg>I first learned of the AFM years ago</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T162513Z" creationid="fred" creationdate="20190329T142438Z">
-        <seg>J'ai d'abord appris l'existence de l'AFM il y a déjà plusieurs années</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220445Z" creationid="fred" creationdate="20190329T142438Z">
+        <seg>J'ai découvert l'AFM il y a longtemps déjà</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,8 +448,8 @@
       <tuv lang="EN-GB">
         <seg>The AFM is a terrific organisation</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142430Z" creationid="fred" creationdate="20190329T142430Z">
-        <seg>L'AFM est une organisation formidable</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220242Z" creationid="fred" creationdate="20190329T142430Z">
+        <seg>L'AFM est une organisation formidable,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1000,8 +1000,8 @@
       <tuv lang="EN-GB">
         <seg>and we now applied it to exon 2</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142427Z" creationid="fred" creationdate="20190329T142427Z">
-        <seg>et nous l'avons maintenant appliqué à l'exon 2</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220219Z" creationid="fred" creationdate="20190329T142427Z">
+        <seg>et nous l'appliquons à présent à l'exon 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -1392,8 +1392,8 @@
       <tuv lang="EN-GB">
         <seg>in the study and treatment of neuro-muscular diseases</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142432Z" creationid="fred" creationdate="20190329T142432Z">
-        <seg>dans l'étude et le traitement des maladies neuro-musculaires</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220316Z" creationid="fred" creationdate="20190329T142432Z">
+        <seg>sur l'étude et le traitement des maladies neuro-musculaires,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1696,8 +1696,8 @@
       <tuv lang="EN-GB">
         <seg>that has a world-wide impact</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142431Z" creationid="fred" creationdate="20190329T142431Z">
-        <seg>qui a un impact mondial</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220301Z" creationid="fred" creationdate="20190329T142431Z">
+        <seg>avec un impact mondial</seg>
       </tuv>
     </tu>
     <tu>
