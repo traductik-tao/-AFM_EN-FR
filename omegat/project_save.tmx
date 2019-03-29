@@ -336,8 +336,8 @@
       <tuv lang="EN-GB">
         <seg>So that is the surrogate gene approach,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142355Z" creationid="fred" creationdate="20190329T142355Z">
-        <seg>Voilà donc l'approche du gène de substitution,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T214801Z" creationid="fred" creationdate="20190329T142355Z">
+        <seg>Voilà donc l'approche du gène de substitution.</seg>
       </tuv>
     </tu>
     <tu>
@@ -504,8 +504,8 @@
       <tuv lang="EN-GB">
         <seg>The second thing I talked about</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T152247Z" creationid="fred" creationdate="20190329T142357Z">
-        <seg>La seconde chose dont j'ai parlé</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215005Z" creationid="fred" creationdate="20190329T142357Z">
+        <seg>Le second sujet que j'ai abordé</seg>
       </tuv>
     </tu>
     <tu>
@@ -984,8 +984,8 @@
       <tuv lang="EN-GB">
         <seg>and tomorrow we will be doing it in clinical trials in patients, the substitute.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T152229Z" creationid="fred" creationdate="20190329T142356Z">
-        <seg>et dans le futur, nous implémenterons la technique de substitution dans des essais cliniques chez des patients.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T214935Z" creationid="fred" creationdate="20190329T142356Z">
+        <seg>Nous envisageons, dans un futur proche, des essais cliniques sur des patients.</seg>
       </tuv>
     </tu>
     <tu>
