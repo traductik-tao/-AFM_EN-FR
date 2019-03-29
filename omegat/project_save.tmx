@@ -1176,8 +1176,8 @@
       <tuv lang="EN-GB">
         <seg>does not bind to the complex.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142346Z" creationid="fred" creationdate="20190329T142346Z">
-        <seg>ne lie pas au complexe.</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T145235Z" creationid="fred" creationdate="20190329T142346Z">
+        <seg>ne se lie pas au complexe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2056,8 +2056,8 @@
       <tuv lang="EN-GB">
         <seg>where nerve meets muscle.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142343Z" creationid="fred" creationdate="20190329T142343Z">
-        <seg>où le nerf rencontre le muscle.</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T145113Z" creationid="fred" creationdate="20190329T142343Z">
+        <seg>à l'endroit où le nerf rencontre le muscle.</seg>
       </tuv>
     </tu>
     <tu>
