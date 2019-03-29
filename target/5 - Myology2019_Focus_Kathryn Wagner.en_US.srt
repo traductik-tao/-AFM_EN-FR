@@ -1,30 +1,30 @@
 ﻿1
 00:00:13,340 --> 00:00:15,820
-Nous avons étudié l'inhibition de la myostatine
+Nos recherches portent sur l'inhibition de la myostatine
 
 2
 00:00:15,820 --> 00:00:19,150
-pour une variété de troubles musculaires, qui incluent
+pour un grand nombre de troubles musculaires incluant
 
 3
 00:00:19,150 --> 00:00:20,780
-Duchenne, Becker,
+Duchenne, les dystrophies,
 
 4
 00:00:20,780 --> 00:00:23,500
-les dystrophies musculaires facio-scapulo-humérales,
+musculaires facio-scapulo-humérales de Becker,
 
 5
 00:00:23,500 --> 00:00:25,540
-dystrophies musculaires des ceintures,
+les dystrophies musculaires des ceintures,
 
 6
 00:00:25,540 --> 00:00:27,780
-et sporadique IBM.
+et la myosite à inclusions sporadiques.
 
 7
 00:00:27,780 --> 00:00:30,500
-Donc, la myostatine est un inhibiteur naturel
+La myostatine est un inhibiteur naturel
 
 8
 00:00:30,500 --> 00:00:31,980
@@ -32,11 +32,11 @@ de la croissance musculaire.
 
 9
 00:00:31,980 --> 00:00:34,620
-Il circule dans le corps
+Elle circule dans tout le corps,
 
 10
 00:00:34,620 --> 00:00:37,020
-et maintient la croissance musculaire en échec.
+limitant naturellement la croissance musculaire.
 
 11
 00:00:37,020 --> 00:00:39,420
@@ -44,7 +44,7 @@ Lorsque vous inhibez la myostatine,
 
 12
 00:00:39,420 --> 00:00:42,500
-vous obtenez une croissance musculaire accrue, une force accrue,
+vous obtenez une croissance musculaire accrue, plus de tonus,
 
 13
 00:00:42,500 --> 00:00:44,540
@@ -52,27 +52,27 @@ et une amélioration de la qualité musculaire,
 
 14
 00:00:44,540 --> 00:00:47,740
-c'est moins de fibrose ou de cicatrices de tissu.
+avec moins de fibrose ou tissus cicatriciels.
 
 15
 00:00:47,740 --> 00:00:50,540
-Et si cela a été vraiment très prometteur
+Cette approche s'est révélée très prometteuse
 
 16
 00:00:50,540 --> 00:00:54,060
-dans des modèles animaux, et a maintenant été traduit
+sur les animaux, et est actuellement transposée
 
 17
 00:00:54,060 --> 00:00:55,940
-dans les essais cliniques humains.
+en essais cliniques chez l'homme.
 
 18
 00:00:55,940 --> 00:00:58,780
-Il y a eu plusieurs types différents
+Les essais ont porté sur différents types
 
 19
 00:00:58,780 --> 00:01:01,060
-des inhibiteurs de la myostatine testés
+d'inhibiteurs de la myostatine
 
 20
 00:01:01,060 --> 00:01:04,540
@@ -80,19 +80,19 @@ dans les dystrophies musculaires et les myopathies.
 
 21
 00:01:04,540 --> 00:01:07,780
-L'AFM a été incroyablement utile
+L'AFM nous a apporté une aide particulièrement précieuse
 
 22
 00:01:07,780 --> 00:01:11,860
-dans l'organisation et la motivation, et
+dans l'organisation, la motivation, et
 
 23
 00:01:11,860 --> 00:01:14,620
-propulser la recherche
+surtout l'avancement des recherches
 
 24
 00:01:14,620 --> 00:01:17,220
-dans les troubles neuromusculaires.
+sur les troubles neuromusculaires.
 
 25
 00:01:18,980 --> 00:01:22,300
@@ -100,19 +100,19 @@ La réunion d'aujourd'hui ...
 
 26
 00:01:22,300 --> 00:01:25,300
-a vraiment eu beaucoup de succès.
+a été particulièrement fructueuse.
 
 27
 00:01:25,300 --> 00:01:29,380
-L’AFM a organisé et financé,
+L’AFM a organisé et financé, une fois de plus,
 
 28
 00:01:29,380 --> 00:01:32,780
-rassemblant des chercheurs du monde entier
+le regroupement de chercheurs du monde entier autour
 
 29
 00:01:32,780 --> 00:01:36,260
-discuter des dernières myopathies.
+des dernières avancées en myopathie.
 
 30
 00:01:36,260 --> 00:01:37,940
@@ -120,13 +120,13 @@ L’AFM finance également
 
 31
 00:01:37,940 --> 00:01:40,780
-une quantité importante de recherche
+une quantité considérable de recherches,
 
 32
 00:01:40,780 --> 00:01:45,180
-et est vraiment à la pointe
+jouant un rôle de premier plan
 
 33
 00:01:45,180 --> 00:01:49,380
-d'apporter ces nouvelles thérapies aux patients.
+dans l'apport des nouvelles thérapies aux patients.
 
