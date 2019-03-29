@@ -160,8 +160,8 @@
       <tuv lang="EN-GB">
         <seg>It actually makes other proteins</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142353Z" creationid="fred" creationdate="20190329T142353Z">
-        <seg>Il fait en fait d'autres protéines</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T151029Z" creationid="fred" creationdate="20190329T142353Z">
+        <seg>Il permet en fait la fabrication d'autres protéines</seg>
       </tuv>
     </tu>
     <tu>
@@ -1512,8 +1512,8 @@
       <tuv lang="EN-GB">
         <seg>occur across the entire muscle memory,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142351Z" creationid="fred" creationdate="20190329T142351Z">
-        <seg>se produisent dans toute la mémoire musculaire,</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T150838Z" creationid="fred" creationdate="20190329T142351Z">
+        <seg>se produire dans toute la mémoire musculaire,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,8 +1656,8 @@
       <tuv lang="EN-GB">
         <seg>sort of make utrophin substitute for dystrophin.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142352Z" creationid="fred" creationdate="20190329T142352Z">
-        <seg>faire en sorte que l’utrophine se substitue à la dystrophine.</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T150917Z" creationid="fred" creationdate="20190329T142352Z">
+        <seg>et faire en sorte que l’utrophine se substitue à la dystrophine.</seg>
       </tuv>
     </tu>
     <tu>
