@@ -48,8 +48,8 @@
       <tuv lang="EN-GB">
         <seg>But that RNA that we deliver,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T152815Z" creationid="fred" creationdate="20190329T142406Z">
-        <seg>Mais cet ARN que nous déclenchons,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215259Z" creationid="fred" creationdate="20190329T142406Z">
+        <seg>Mais la délivrance de cet ARN,</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,8 +296,8 @@
       <tuv lang="EN-GB">
         <seg>So in this case we use a virus,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142400Z" creationid="fred" creationdate="20190329T142400Z">
-        <seg>Donc, dans ce cas, nous utilisons un virus,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215103Z" creationid="fred" creationdate="20190329T142400Z">
+        <seg>Dans ce cas, nous utilisons un virus,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,8 +1136,8 @@
       <tuv lang="EN-GB">
         <seg>called the U7 small nuclear RNA</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142407Z" creationid="fred" creationdate="20190329T142407Z">
-        <seg>appelé le petit ARN nucléaire U7</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215203Z" creationid="fred" creationdate="20190329T142407Z">
+        <seg> appelé le petit ARN nucléaire U7</seg>
       </tuv>
     </tu>
     <tu>
@@ -2016,8 +2016,8 @@
       <tuv lang="EN-GB">
         <seg>was a way of combining exon skipping</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142358Z" creationid="fred" creationdate="20190329T142358Z">
-        <seg>était un moyen de combiner le saut d'exon</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215040Z" creationid="fred" creationdate="20190329T142358Z">
+        <seg>est une technique combinant le saut d'exon</seg>
       </tuv>
     </tu>
     <tu>
