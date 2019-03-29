@@ -40,8 +40,8 @@
       <tuv lang="EN-GB">
         <seg>As a result, we can make</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T155539Z" creationid="fred" creationdate="20190329T142414Z">
-        <seg>En conclusion, nous pouvons obtenir</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215704Z" creationid="fred" creationdate="20190329T142414Z">
+        <seg>Nous obtenons ainsi</seg>
       </tuv>
     </tu>
     <tu>
@@ -392,8 +392,8 @@
       <tuv lang="EN-GB">
         <seg>That allows for example people</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142418Z" creationid="fred" creationdate="20190329T142418Z">
-        <seg>Cela permet par exemple aux gens</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215844Z" creationid="fred" creationdate="20190329T142418Z">
+        <seg>Cela permet par exemple aux patients</seg>
       </tuv>
     </tu>
     <tu>
@@ -536,8 +536,8 @@
       <tuv lang="EN-GB">
         <seg>They walk into their seventh decade</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T160129Z" creationid="fred" creationdate="20190329T142421Z">
-        <seg>Certains atteignent 70 ans</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215916Z" creationid="fred" creationdate="20190329T142421Z">
+        <seg>d'atteindre et dépasser 70 ans</seg>
       </tuv>
     </tu>
     <tu>
@@ -736,8 +736,8 @@
       <tuv lang="EN-GB">
         <seg>a perfectly normal dystrophin...</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142415Z" creationid="fred" creationdate="20190329T142415Z">
-        <seg>une dystrophine parfaitement normale ...</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215715Z" creationid="fred" creationdate="20190329T142415Z">
+        <seg>une dystrophine parfaitement normale...</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,8 +992,8 @@
       <tuv lang="EN-GB">
         <seg>and we have learned that we can highly efficiently</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142412Z" creationid="fred" creationdate="20190329T142412Z">
-        <seg>et nous avons appris que nous pouvons très efficacement</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215626Z" creationid="fred" creationdate="20190329T142412Z">
+        <seg>ce qui nous permet, avec une grande efficacité,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1576,8 +1576,8 @@
       <tuv lang="EN-GB">
         <seg>or if we skip too much,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T161613Z" creationid="fred" creationdate="20190329T142416Z">
-        <seg>ou si nous en sautons trop,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215747Z" creationid="fred" creationdate="20190329T142416Z">
+        <seg>ou, si nous sautons trop d'exon 2,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1640,8 +1640,8 @@
       <tuv lang="EN-GB">
         <seg>skip a duplicated copy of exon 2.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T161644Z" creationid="fred" creationdate="20190329T142413Z">
-        <seg>sauter la duplication d'un exon 2.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215630Z" creationid="fred" creationdate="20190329T142413Z">
+        <seg>de sauter la duplication d'un exon 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1712,8 +1712,8 @@
       <tuv lang="EN-GB">
         <seg>that is really very protective.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T155714Z" creationid="fred" creationdate="20190329T142418Z">
-        <seg>qui se révèle vraiment très protectrice.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215818Z" creationid="fred" creationdate="20190329T142418Z">
+        <seg>vraiment très protectrice.</seg>
       </tuv>
     </tu>
     <tu>
