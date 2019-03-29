@@ -88,8 +88,8 @@
       <tuv lang="EN-GB">
         <seg>I first learned of the AFM years ago</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142438Z" creationid="fred" creationdate="20190329T142438Z">
-        <seg>J'ai d'abord appris l'existence de l'AFM il y a des années</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T162513Z" creationid="fred" creationdate="20190329T142438Z">
+        <seg>J'ai d'abord appris l'existence de l'AFM il y a déjà plusieurs années</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +248,8 @@
       <tuv lang="EN-GB">
         <seg>Since then I had a terrific, long interaction</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142443Z" creationid="fred" creationdate="20190329T142443Z">
-        <seg>Depuis lors, j'ai eu une excellente et longue interaction</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T162555Z" creationid="fred" creationdate="20190329T142443Z">
+        <seg>Depuis, j'ai eu une excellente et longue interaction</seg>
       </tuv>
     </tu>
     <tu>
@@ -2176,8 +2176,8 @@
       <tuv lang="EN-GB">
         <seg>working with the agency that developed the Genethon.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142440Z" creationid="fred" creationdate="20190329T142440Z">
-        <seg>travailler avec l'agence qui a développé le Généthon.</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T162531Z" creationid="fred" creationdate="20190329T142440Z">
+        <seg>travaillant avec l'agence qui a développé le Généthon.</seg>
       </tuv>
     </tu>
     <tu>
