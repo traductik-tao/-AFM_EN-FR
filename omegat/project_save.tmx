@@ -16,8 +16,8 @@
       <tuv lang="EN-GB">
         <seg>Duchenne, Becker's,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T115630Z" creationid="fred" creationdate="20190328T222053Z">
-        <seg>Duchenne, Becker,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T120348Z" creationid="fred" creationdate="20190328T222053Z">
+        <seg>Duchenne, les dystrophies,</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +416,8 @@
       <tuv lang="EN-GB">
         <seg>We have been studying myostatin inhibition</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T115604Z" creationid="fred" creationdate="20190328T212152Z">
-        <seg>Notre étude a porté sur l'inhibition de la myostatineBecket</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T120403Z" creationid="fred" creationdate="20190328T212152Z">
+        <seg>Notre étude a porté sur l'inhibition de la myostatine</seg>
       </tuv>
     </tu>
     <tu>
