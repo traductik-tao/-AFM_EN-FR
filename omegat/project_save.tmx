@@ -16,8 +16,8 @@
       <tuv lang="EN-GB">
         <seg>Duchenne, Becker's,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T222053Z" creationid="fred" creationdate="20190328T222053Z">
-        <seg>Duchenne, Becker,</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T084801Z" creationid="fred" creationdate="20190328T222053Z">
+        <seg>Duchenne, </seg>
       </tuv>
     </tu>
     <tu>
@@ -832,8 +832,8 @@
       <tuv lang="EN-GB">
         <seg>facio-scapulo-humeral muscular dystrophies,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T222059Z" creationid="fred" creationdate="20190328T222059Z">
-        <seg>les dystrophies musculaires facio-scapulo-humérales,</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T085043Z" creationid="fred" creationdate="20190328T222059Z">
+        <seg>les dystrophies musculaires facio-scapulo-humérales de Becker,</seg>
       </tuv>
     </tu>
     <tu>
