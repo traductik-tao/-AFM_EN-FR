@@ -144,8 +144,8 @@
       <tuv lang="EN-GB">
         <seg>Instead, a different protein called utrophin does.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T145327Z" creationid="fred" creationdate="20190329T142346Z">
-        <seg>Au lieu de cela, une protéine différente appelée utrophine le fait.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T210122Z" creationid="fred" creationdate="20190329T142346Z">
+        <seg>une autre protéine, l'utrophine, peut le faire à sa place.</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,8 +408,8 @@
       <tuv lang="EN-GB">
         <seg>That is where GALGT2 is usually found.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T145516Z" creationid="fred" creationdate="20190329T142347Z">
-        <seg>C'est à cet endroit que se trouve généralement GALGT2.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T210238Z" creationid="fred" creationdate="20190329T142347Z">
+        <seg>À cet endroit  généralement GALGT2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1176,8 +1176,8 @@
       <tuv lang="EN-GB">
         <seg>does not bind to the complex.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T145235Z" creationid="fred" creationdate="20190329T142346Z">
-        <seg>ne se lie pas au complexe.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T205945Z" creationid="fred" creationdate="20190329T142346Z">
+        <seg>ne se lie pas au complexe de dystroglycanes,</seg>
       </tuv>
     </tu>
     <tu>
