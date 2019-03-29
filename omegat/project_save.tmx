@@ -312,8 +312,8 @@
       <tuv lang="EN-GB">
         <seg>There has been several different types</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T222118Z" creationid="fred" creationdate="20190328T222118Z">
-        <seg>Il y a eu plusieurs types différents</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T090703Z" creationid="fred" creationdate="20190328T222118Z">
+        <seg>Les essais ont porté sur différents types</seg>
       </tuv>
     </tu>
     <tu>
@@ -944,8 +944,8 @@
       <tuv lang="EN-GB">
         <seg>in animal models, and now has been translated</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T090545Z" creationid="fred" creationdate="20190328T222115Z">
-        <seg>sur les animaux et est actuellement transposéed</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T090614Z" creationid="fred" creationdate="20190328T222115Z">
+        <seg>sur les animaux et est actuellement transposée</seg>
       </tuv>
     </tu>
     <tu>
@@ -1024,8 +1024,8 @@
       <tuv lang="EN-GB">
         <seg>into human clinical trials.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T222116Z" creationid="fred" creationdate="20190328T222116Z">
-        <seg>dans les essais cliniques humains.</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T090608Z" creationid="fred" creationdate="20190328T222116Z">
+        <seg>dans des essais cliniques chez l'homme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1144,8 +1144,8 @@
       <tuv lang="EN-GB">
         <seg>of myostatin inhibitors being trialled</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T222119Z" creationid="fred" creationdate="20190328T222119Z">
-        <seg>des inhibiteurs de la myostatine testés</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T090753Z" creationid="fred" creationdate="20190328T222119Z">
+        <seg>d'inhibiteurs de la myostatine</seg>
       </tuv>
     </tu>
     <tu>
