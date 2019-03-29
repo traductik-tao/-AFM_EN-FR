@@ -1240,8 +1240,8 @@
       <tuv lang="EN-GB">
         <seg>that is less fibrosis or scarring of tissue.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T222113Z" creationid="fred" creationdate="20190328T222113Z">
-        <seg>c'est moins de fibrose ou de cicatrices de tissu.</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T090045Z" creationid="fred" creationdate="20190328T222113Z">
+        <seg>avec moins de fibrose ou d'apparition de cicatrices.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1552,8 +1552,8 @@
       <tuv lang="EN-GB">
         <seg>you get increased muscle growth, increased strength,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T222110Z" creationid="fred" creationdate="20190328T222110Z">
-        <seg>vous obtenez une croissance musculaire accrue, une force accrue,</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T085757Z" creationid="fred" creationdate="20190328T222110Z">
+        <seg>vous obtenez une croissance musculaire accrue, davantage de tonus,</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
