@@ -96,8 +96,8 @@
       <tuv lang="EN-GB">
         <seg>I look forward to cementing,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T221109Z" creationid="fred" creationdate="20190329T142453Z">
-        <seg>Je suis persuadé que ces liens et relations,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T222558Z" creationid="fred" creationdate="20190329T142453Z">
+        <seg>Je suis persuadé que ces liens</seg>
       </tuv>
     </tu>
     <tu>
@@ -640,8 +640,8 @@
       <tuv lang="EN-GB">
         <seg>We call it "virally-mediated exon skipping".</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220128Z" creationid="fred" creationdate="20190329T142424Z">
-        <seg>Nous appelons cela "saut d'exon à médiation virale".</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T222438Z" creationid="fred" creationdate="20190329T142424Z">
+        <seg>Nous appelons cette thérapie "saut d'exon à médiation virale".</seg>
       </tuv>
     </tu>
     <tu>
@@ -2040,8 +2040,8 @@
       <tuv lang="EN-GB">
         <seg>we make a kind of dystrophin</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T155644Z" creationid="fred" creationdate="20190329T142417Z">
-        <seg>nous obtenons une sorte de dystrophine</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T222330Z" creationid="fred" creationdate="20190329T142417Z">
+        <seg>une nouvelle sorte de dystrophine</seg>
       </tuv>
     </tu>
     <tu>
