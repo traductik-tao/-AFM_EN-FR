@@ -176,8 +176,8 @@
       <tuv lang="EN-GB">
         <seg>It interferes with splicing very efficiently.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T154112Z" creationid="fred" creationdate="20190329T142410Z">
-        <seg>Il interfère très efficacement avec l'épissage.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215416Z" creationid="fred" creationdate="20190329T142410Z">
+        <seg>Une interférence très efficace, en fait...</seg>
       </tuv>
     </tu>
     <tu>
@@ -288,8 +288,8 @@
       <tuv lang="EN-GB">
         <seg>So in that case, we are directing our splicing RNA,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T154447Z" creationid="fred" creationdate="20190329T142411Z">
-        <seg>Donc, dans ce cas, nous dirigeons notre épissage de l'ARN,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215505Z" creationid="fred" creationdate="20190329T142411Z">
+        <seg>Au point qu'elle nous permet de diriger l'épissage de l'ARN,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,8 +1136,8 @@
       <tuv lang="EN-GB">
         <seg>called the U7 small nuclear RNA</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215203Z" creationid="fred" creationdate="20190329T142407Z">
-        <seg> appelé le petit ARN nucléaire U7</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215314Z" creationid="fred" creationdate="20190329T142407Z">
+        <seg>appelé le petit ARN nucléaire U7,</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,8 +2032,8 @@
       <tuv lang="EN-GB">
         <seg>we just direct it to exon 2</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142411Z" creationid="fred" creationdate="20190329T142411Z">
-        <seg>nous le dirigeons simplement sur exon 2</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T215557Z" creationid="fred" creationdate="20190329T142411Z">
+        <seg>et nous le dirigeons précisément sur exon 2,</seg>
       </tuv>
     </tu>
     <tu>
