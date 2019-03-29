@@ -536,8 +536,8 @@
       <tuv lang="EN-GB">
         <seg>They walk into their seventh decade</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142421Z" creationid="fred" creationdate="20190329T142421Z">
-        <seg>Ils entrent dans leur septième décennie</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T160129Z" creationid="fred" creationdate="20190329T142421Z">
+        <seg>Certains atteignent 70 ans</seg>
       </tuv>
     </tu>
     <tu>
@@ -1592,8 +1592,8 @@
       <tuv lang="EN-GB">
         <seg>or their eighth decade.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142422Z" creationid="fred" creationdate="20190329T142422Z">
-        <seg>ou leur huitième décennie.</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T160151Z" creationid="fred" creationdate="20190329T142422Z">
+        <seg>ou même 80 ans.</seg>
       </tuv>
     </tu>
     <tu>
