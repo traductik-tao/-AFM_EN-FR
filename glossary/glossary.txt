@@ -12,3 +12,5 @@ comparator group	groupe de comparaison
 phase-3 trial	essai clinique de phase 3
 supplementation	supplémentation
 myostatin	myostatine
+dystrophin	dystrophine
+surrogate gene therapy	thérapie génique de substitution
