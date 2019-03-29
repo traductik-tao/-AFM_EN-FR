@@ -1640,8 +1640,8 @@
       <tuv lang="EN-GB">
         <seg>skip a duplicated copy of exon 2.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142413Z" creationid="fred" creationdate="20190329T142413Z">
-        <seg>ignorer une copie de l'exon 2.</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T155217Z" creationid="fred" creationdate="20190329T142413Z">
+        <seg>ignorer la duplication d'un exon 2.</seg>
       </tuv>
     </tu>
     <tu>
