@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10553" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>And I continue to have close interactions</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142450Z" creationid="fred" creationdate="20190329T142450Z">
+        <seg>Et je continue d'avoir des interactions étroites</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>And in that place, dystrophin protein</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142345Z" creationid="fred" creationdate="20190329T142345Z">
+        <seg>Et à cet endroit, la protéine dystrophine</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>And so this has been really, very promising</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T122155Z" creationid="fred" creationdate="20190328T222114Z">
         <seg>Cette approche s'est révélée très prometteuse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>And the gene we use is called GALGT2.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142339Z" creationid="fred" creationdate="20190329T142339Z">
+        <seg>Et le gène que nous utilisons s'appelle GALGT2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>As a result, we can make</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142414Z" creationid="fred" creationdate="20190329T142414Z">
+        <seg>En conséquence, nous pouvons faire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>But that RNA that we deliver,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142406Z" creationid="fred" creationdate="20190329T142406Z">
+        <seg>Mais cet ARN que nous livrons,</seg>
       </tuv>
     </tu>
     <tu>
@@ -30,10 +70,34 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>GALGT2 is a protein that is normally expressed</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142340Z" creationid="fred" creationdate="20190329T142340Z">
+        <seg>GALGT2 est une protéine normalement exprimée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>However, the disease is a worldwide disease,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T205617Z" creationid="joce" creationdate="20190328T205617Z">
         <seg>Toutefois, cette maladie est répandue dans le monde entier,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>I first learned of the AFM years ago</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142438Z" creationid="fred" creationdate="20190329T142438Z">
+        <seg>J'ai d'abord appris l'existence de l'AFM il y a des années</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>I look forward to cementing,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142453Z" creationid="fred" creationdate="20190329T142453Z">
+        <seg>J'ai hâte de cimenter,</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +126,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>In surrogate gene therapy we don't try to replace</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142335Z" creationid="fred" creationdate="20190329T142326Z">
+        <seg>En thérapie génique de substitution, nous n'essayons pas de remplacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>In the past, it was called also</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T212319Z" creationid="joce" creationdate="20190328T162857Z">
         <seg>anciennement appelée aussi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Instead, a different protein called utrophin does.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142346Z" creationid="fred" creationdate="20190329T142346Z">
+        <seg>Au lieu de cela, une protéine différente appelée utrophine fait.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,10 +158,50 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>It actually makes other proteins</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142353Z" creationid="fred" creationdate="20190329T142353Z">
+        <seg>Il fait en fait d'autres protéines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>It circulates in the body</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T123402Z" creationid="fred" creationdate="20190328T222107Z">
         <seg>Elle circule dans tout le corps,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It interferes with splicing very efficiently.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142410Z" creationid="fred" creationdate="20190329T142410Z">
+        <seg>Cela interfère très efficacement avec l'épissure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It is something first developed here in France,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142425Z" creationid="fred" creationdate="20190329T142425Z">
+        <seg>C’est quelque chose d’abord développé ici en France,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It turned out as well.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142354Z" creationid="fred" creationdate="20190329T142354Z">
+        <seg>Il s'est avéré aussi bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>It was called the neuromuscular junction,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142342Z" creationid="fred" creationdate="20190329T142342Z">
+        <seg>On l'appelait la jonction neuromusculaire,</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +232,8 @@
       <tuv lang="EN-GB">
         <seg>My lab works mostly on Duchenne muscular dystrophy.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T142000Z" creationid="joce" creationdate="20190329T142000Z">
-        <seg>403: Forbidden</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142311Z" creationid="joce" creationdate="20190329T142000Z">
+        <seg>Mon laboratoire travaille principalement sur la dystrophie musculaire de Duchenne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +242,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T172046Z" creationid="joce" creationdate="20190328T151105Z">
         <seg>Des entités comme l'AFM jouent un rôle déterminant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Since then I had a terrific, long interaction</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142443Z" creationid="fred" creationdate="20190329T142443Z">
+        <seg>Depuis lors, j'ai eu une excellente et longue interaction</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +286,38 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>So in that case, we are directing our splicing RNA,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142411Z" creationid="fred" creationdate="20190329T142411Z">
+        <seg>Donc, dans ce cas, nous dirigeons notre ARN d'épissage,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>So in this case we use a virus,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142400Z" creationid="fred" creationdate="20190329T142400Z">
+        <seg>Donc, dans ce cas, nous utilisons un virus,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>So it is really very functional.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142423Z" creationid="fred" creationdate="20190329T142423Z">
+        <seg>Donc c'est vraiment très fonctionnel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>So it turns out that we overexpress,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142348Z" creationid="fred" creationdate="20190329T142348Z">
+        <seg>Donc, il s'avère que nous surexprimons,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>So myostatin is a natural inhibitor</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T120500Z" creationid="fred" creationdate="20190328T222105Z">
@@ -170,6 +330,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T150339Z" creationid="joce" creationdate="20190328T150339Z">
         <seg>L'objectif principal de nos laboratoires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>So that is the surrogate gene approach,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142355Z" creationid="fred" creationdate="20190329T142355Z">
+        <seg>Voilà donc l'approche du gène de substitution,</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,10 +390,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>That allows for example people</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142418Z" creationid="fred" creationdate="20190329T142418Z">
+        <seg>Cela permet par exemple aux gens</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>That is particularly relevant for a new and common mutation,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T171039Z" creationid="joce" creationdate="20190328T141358Z">
         <seg>Une approche particulièrement pertinente pour la nouvelle mutation,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>That is where GALGT2 is usually found.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142347Z" creationid="fred" creationdate="20190329T142347Z">
+        <seg>C'est là que l'on trouve généralement GALGT2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>The AFM is a terrific organisation</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142430Z" creationid="fred" creationdate="20190329T142430Z">
+        <seg>L'AFM est une organisation formidable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>The AFM of course is pivotal in providing</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T153122Z" creationid="fred" creationdate="20190327T153122Z">
@@ -274,6 +466,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T214629Z" creationid="joce" creationdate="20190328T182418Z">
         <seg>Le problème de cette étude a été</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>The first of these is called surrogate gene therapy.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142333Z" creationid="fred" creationdate="20190329T142319Z">
+        <seg>Le premier d'entre eux s'appelle la thérapie génique de substitution.</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>The second thing I talked about</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142357Z" creationid="fred" creationdate="20190329T142357Z">
+        <seg>La deuxième chose dont j'ai parlé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>There are 3 collagen VI genes and mutations</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T165558Z" creationid="joce" creationdate="20190328T131300Z">
@@ -322,6 +530,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190329T090703Z" creationid="fred" creationdate="20190328T222118Z">
         <seg>Les essais ont porté sur différents types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>They walk into their seventh decade</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142421Z" creationid="fred" creationdate="20190329T142421Z">
+        <seg>Ils entrent dans leur septième décennie</seg>
       </tuv>
     </tu>
     <tu>
@@ -352,8 +568,8 @@
       <tuv lang="EN-GB">
         <seg>Today at the conference, I spoke about</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T142117Z" creationid="joce" creationdate="20190329T142117Z">
-        <seg>403: Forbidden</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142313Z" creationid="joce" creationdate="20190329T142117Z">
+        <seg>Aujourd'hui à la conférence, j'ai parlé de</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>We call it "virally-mediated exon skipping".</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142424Z" creationid="fred" creationdate="20190329T142424Z">
+        <seg>Nous l'appelons "saut d'exon à médiation virale".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>We had in fact a joint meeting, a workshop,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T220153Z" creationid="joce" creationdate="20190328T194622Z">
@@ -434,6 +658,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T123233Z" creationid="fred" creationdate="20190328T212152Z">
         <seg>Nos recherches portent sur l'inhibition de la myostatine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>We instead use a substitute gene,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142337Z" creationid="fred" creationdate="20190329T142337Z">
+        <seg>Nous utilisons plutôt un gène de substitution,</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>We use that virus to deliver</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142402Z" creationid="fred" creationdate="20190329T142402Z">
+        <seg>Nous utilisons ce virus pour délivrer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>When you inhibit myostatin,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T222109Z" creationid="fred" creationdate="20190328T222109Z">
@@ -464,8 +704,8 @@
       <tuv lang="EN-GB">
         <seg>[Music]</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T160512Z" creationid="fred" creationdate="20190327T120023Z">
-        <seg>[Musique]</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142502Z" creationid="fred" creationdate="20190327T120023Z">
+        <seg>[La musique]</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,10 +718,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>a form of RNA</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142403Z" creationid="fred" creationdate="20190329T142403Z">
+        <seg>une forme d'ARN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>a mutation that has been hidden from our analysis so far,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T171201Z" creationid="joce" creationdate="20190328T141621Z">
         <seg>une mutation qui avait échappé jusqu'à présent à notre analyse,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>a perfectly normal dystrophin...</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142415Z" creationid="fred" creationdate="20190329T142415Z">
+        <seg>une dystrophine parfaitement normale ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +762,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T221915Z" creationid="joce" creationdate="20190328T205424Z">
         <seg>sur la population concernée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>and Duchenne muscular dystrophy in particular.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142437Z" creationid="fred" creationdate="20190329T142437Z">
+        <seg>et la dystrophie musculaire de Duchenne en particulier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -574,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>and gene therapy.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142359Z" creationid="fred" creationdate="20190329T142359Z">
+        <seg>et thérapie génique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>and is allowing translation of research,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T153935Z" creationid="fred" creationdate="20190327T153935Z">
@@ -602,6 +874,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T120625Z" creationid="fred" creationdate="20190328T222108Z">
         <seg>limitant naturellement la croissance musculaire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>and other researches from the AFM.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142452Z" creationid="fred" creationdate="20190329T142452Z">
+        <seg>et d'autres recherches de l'AFM.</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +922,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T221620Z" creationid="joce" creationdate="20190328T182734Z">
         <seg>avec des troubles d'une gravité</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>and the AFM helped to fund a sabbatical year</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142445Z" creationid="fred" creationdate="20190329T142445Z">
+        <seg>et l'AFM a aidé à financer une année sabbatique</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,6 +982,30 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>and tomorrow we will be doing it in clinical trials in patients, the substitute.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142356Z" creationid="fred" creationdate="20190329T142356Z">
+        <seg>et demain nous le ferons dans des essais cliniques chez des patients, le substitut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>and we have learned that we can highly efficiently</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142412Z" creationid="fred" creationdate="20190329T142412Z">
+        <seg>et nous avons appris que nous pouvons très efficacement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>and we now applied it to exon 2</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142427Z" creationid="fred" creationdate="20190329T142427Z">
+        <seg>et nous l'avons maintenant appliqué à l'exon 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>any group benefit after three years of treatment</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T151243Z" creationid="fred" creationdate="20190327T151243Z">
@@ -706,6 +1018,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T221658Z" creationid="joce" creationdate="20190328T192151Z">
         <seg>d'autres plus lente, et à cause de cette disparité,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>at the dystroglycan complex.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142341Z" creationid="fred" creationdate="20190329T142341Z">
+        <seg>au complexe de dystroglycanes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,6 +1134,22 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>called the U7 small nuclear RNA</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142407Z" creationid="fred" creationdate="20190329T142407Z">
+        <seg>appelé le petit ARN nucléaire U7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>can interfere with splicing.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142409Z" creationid="fred" creationdate="20190329T142409Z">
+        <seg>peut interférer avec l'épissure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>can really go down</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T172516Z" creationid="joce" creationdate="20190328T152833Z">
@@ -838,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>does not bind to the complex.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142346Z" creationid="fred" creationdate="20190329T142346Z">
+        <seg>ne lie pas au complexe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>ensure spreading of information</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T155044Z" creationid="fred" creationdate="20190327T155044Z">
@@ -850,6 +1194,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T120329Z" creationid="fred" creationdate="20190328T222059Z">
         <seg>musculaires facio-scapulo-humérales de Becker,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>for Duchenne muscular dystrophy.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142428Z" creationid="fred" creationdate="20190329T142428Z">
+        <seg>pour la dystrophie musculaire de Duchenne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>if we deliver GalGT2,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142349Z" creationid="fred" creationdate="20190329T142349Z">
+        <seg>si nous livrons GalGT2,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>in Duchenne patients can delay the onset</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T142853Z" creationid="fred" creationdate="20190327T142759Z">
@@ -1006,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>in the coming years as well.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142455Z" creationid="fred" creationdate="20190329T142455Z">
+        <seg>dans les années à venir aussi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>in the neuromuscular disorders.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T122350Z" creationid="fred" creationdate="20190328T222127Z">
@@ -1018,6 +1386,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T214828Z" creationid="joce" creationdate="20190328T182820Z">
         <seg>très variable selon les personnes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>in the study and treatment of neuro-muscular diseases</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142432Z" creationid="fred" creationdate="20190329T142432Z">
+        <seg>dans l'étude et le traitement des maladies neuro-musculaires</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>occur across the entire muscle memory,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142351Z" creationid="fred" creationdate="20190329T142351Z">
+        <seg>se produisent dans toute la mémoire musculaire,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>of bringing these novel therapies to patients.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T122751Z" creationid="fred" creationdate="20190328T222138Z">
@@ -1174,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>one that can substitute in function for it.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142338Z" creationid="fred" creationdate="20190329T142338Z">
+        <seg>un qui peut remplacer en fonction pour cela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>or distal myopathy with rimmed vacuoles.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T212343Z" creationid="joce" creationdate="20190328T163143Z">
@@ -1182,10 +1574,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>or if we skip too much,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142416Z" creationid="fred" creationdate="20190329T142416Z">
+        <seg>ou si nous sautons trop,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>or tailor-made medicine for a particular mutation</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T171731Z" creationid="joce" creationdate="20190328T145957Z">
         <seg>avec un médicament sur mesure pour chaque mutation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>or their eighth decade.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142422Z" creationid="fred" creationdate="20190329T142422Z">
+        <seg>ou leur huitième décennie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,10 +1638,34 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>skip a duplicated copy of exon 2.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142413Z" creationid="fred" creationdate="20190329T142413Z">
+        <seg>ignorer une copie de l'exon 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>so we have to devise a therapy for each individual mutation</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T171620Z" creationid="joce" creationdate="20190328T143617Z">
         <seg>nécessite de concevoir une thérapie spécifique pour chaque mutation </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>sort of make utrophin substitute for dystrophin.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142352Z" creationid="fred" creationdate="20190329T142352Z">
+        <seg>faire en sorte que l’utrophine se substitue à la dystrophine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>that I did here in Paris at the institute of Myology,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142446Z" creationid="fred" creationdate="20190329T142446Z">
+        <seg>que j'ai fait ici à Paris à l'institut de myologie,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1246,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>that are important for stabilising the muscles.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142354Z" creationid="fred" creationdate="20190329T142354Z">
+        <seg>qui sont importants pour stabiliser les muscles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>that are present at birth.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T165344Z" creationid="joce" creationdate="20190328T125701Z">
@@ -1254,10 +1694,34 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>that has a world-wide impact</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142431Z" creationid="fred" creationdate="20190329T142431Z">
+        <seg>qui a un impact mondial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>that is less fibrosis or scarring of tissue.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T122128Z" creationid="fred" creationdate="20190328T222113Z">
         <seg>avec moins de fibrose ou tissus cicatriciels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>that is really very protective.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142418Z" creationid="fred" creationdate="20190329T142418Z">
+        <seg>c'est vraiment très protecteur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>that never gets turned into a new protein.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142405Z" creationid="fred" creationdate="20190329T142405Z">
+        <seg>qui ne se transforme jamais en une nouvelle protéine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1302,10 +1766,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>the AAV virus.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142401Z" creationid="fred" creationdate="20190329T142401Z">
+        <seg>le virus AAV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>the cause of the disease — i.e. the deficiency,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T214534Z" creationid="joce" creationdate="20190328T182116Z">
         <seg>être responsable de la maladie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>the coordinated care in research in the muscle diseases.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142449Z" creationid="fred" creationdate="20190329T142449Z">
+        <seg>les soins coordonnés dans la recherche sur les maladies musculaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1342,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>the missing gene, the missing dystrophin protein.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142336Z" creationid="fred" creationdate="20190329T142336Z">
+        <seg>le gène manquant, la protéine de dystrophine manquante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>the momentum that's been built up over recent years,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T153745Z" creationid="fred" creationdate="20190327T153745Z">
@@ -1354,6 +1842,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T170715Z" creationid="joce" creationdate="20190328T134329Z">
         <seg>afin de détoxifier le muscle de cette substance mutante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>the muscle will make the same complex</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142350Z" creationid="fred" creationdate="20190329T142350Z">
+        <seg>le muscle fera le même complexe</seg>
       </tuv>
     </tu>
     <tu>
@@ -1446,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>to building on this relationship</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142454Z" creationid="fred" creationdate="20190329T142454Z">
+        <seg>construire sur cette relation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>to discuss the latest in myopathies.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T122559Z" creationid="fred" creationdate="20190328T222132Z">
@@ -1478,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>to treating Duchenne muscular dystrophy,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142316Z" creationid="fred" creationdate="20190329T142316Z">
+        <seg>traiter la dystrophie musculaire de Duchenne,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>to try and find a common way of collaboration,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T220302Z" creationid="joce" creationdate="20190328T194803Z">
@@ -1486,10 +1998,66 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>two different approaches</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142314Z" creationid="fred" creationdate="20190329T142314Z">
+        <seg>deux approches différentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>two different gene-therapy based approaches.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142317Z" creationid="fred" creationdate="20190329T142317Z">
+        <seg>deux approches différentes basées sur la thérapie génique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>was a way of combining exon skipping</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142358Z" creationid="fred" creationdate="20190329T142358Z">
+        <seg>était un moyen de combiner le saut d'exon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>we have not stopped trying.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T215300Z" creationid="joce" creationdate="20190328T193141Z">
         <seg>et que nous continuons nos efforts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>we just direct it to exon 2</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142411Z" creationid="fred" creationdate="20190329T142411Z">
+        <seg>nous le dirigeons simplement sur exon 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>we make a kind of dystrophin</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142417Z" creationid="fred" creationdate="20190329T142417Z">
+        <seg>nous faisons une sorte de dystrophine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>when I was first in laboratory</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142439Z" creationid="fred" creationdate="20190329T142439Z">
+        <seg>quand j'étais en laboratoire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>where nerve meets muscle.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142343Z" creationid="fred" creationdate="20190329T142343Z">
+        <seg>où le nerf rencontre le muscle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,10 +2102,34 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>which really is one of the world's leading institutions for</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142448Z" creationid="fred" creationdate="20190329T142448Z">
+        <seg>qui est vraiment l'une des principales institutions du monde pour</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>which was thought to be</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T214524Z" creationid="joce" creationdate="20190328T175152Z">
         <seg>— dont la déficience était censée </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>who walk around making that type of dystrophin...</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142419Z" creationid="fred" creationdate="20190329T142419Z">
+        <seg>qui se promener à faire ce type de dystrophine ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>with Genethon and the Institute of Myology</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142451Z" creationid="fred" creationdate="20190329T142451Z">
+        <seg>avec Généthon et l'Institut de Myologie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1550,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>with funding from the AFM long ago,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142426Z" creationid="fred" creationdate="20190329T142426Z">
+        <seg>avec un financement de l'AFM il y a longtemps,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>with supplementation of sialic acid,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T222555Z" creationid="joce" creationdate="20190328T174716Z">
@@ -1558,10 +2158,26 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>with the AFM,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142444Z" creationid="fred" creationdate="20190329T142444Z">
+        <seg>avec l'AFM,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>won't show in a three-year time period</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T161142Z" creationid="fred" creationdate="20190327T151555Z">
         <seg>est quasi nulle sur une période de trois ans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>working with the agency that developed the Genethon.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142440Z" creationid="fred" creationdate="20190329T142440Z">
+        <seg>travailler avec l'agence qui a développé le Généthon.</seg>
       </tuv>
     </tu>
     <tu>
