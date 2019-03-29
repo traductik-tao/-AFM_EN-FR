@@ -14,3 +14,4 @@ supplementation	supplémentation
 myostatin	myostatine
 dystrophin	dystrophine
 surrogate gene therapy	thérapie génique de substitution
+dystroglycan complex	complexe de dystroglycanes
