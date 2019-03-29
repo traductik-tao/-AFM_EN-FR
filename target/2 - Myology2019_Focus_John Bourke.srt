@@ -1,6 +1,6 @@
 ﻿1
 00:00:01,520 --> 00:00:06,690
-[Musique]
+
 
 2
 00:00:13,060 --> 00:00:15,820
@@ -240,5 +240,5 @@ bien plus rapidement qu'avec les méthodes traditionnelles !
 
 61
 00:03:12,540 --> 00:03:18,900
-[Musique]
+
 
