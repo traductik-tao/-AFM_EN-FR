@@ -88,8 +88,8 @@
       <tuv lang="EN-GB">
         <seg>I first learned of the AFM years ago</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220445Z" creationid="fred" creationdate="20190329T142438Z">
-        <seg>J'ai découvert l'AFM il y a longtemps déjà</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220459Z" creationid="fred" creationdate="20190329T142438Z">
+        <seg>J'ai découvert l'AFM il y a longtemps déjà :</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,8 +248,8 @@
       <tuv lang="EN-GB">
         <seg>Since then I had a terrific, long interaction</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T162616Z" creationid="fred" creationdate="20190329T142443Z">
-        <seg>Depuis, j'ai eu une excellente et longue collaboration</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220644Z" creationid="fred" creationdate="20190329T142443Z">
+        <seg>Depuis, je poursuis une longue et passionnante collaboration</seg>
       </tuv>
     </tu>
     <tu>
@@ -928,8 +928,8 @@
       <tuv lang="EN-GB">
         <seg>and the AFM helped to fund a sabbatical year</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T162648Z" creationid="fred" creationdate="20190329T142445Z">
-        <seg>et l'AFM m'a aidé à financer une année sabbatique</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220746Z" creationid="fred" creationdate="20190329T142445Z">
+        <seg>L'AFM a même contribué à l'année sabbatique</seg>
       </tuv>
     </tu>
     <tu>
@@ -2048,8 +2048,8 @@
       <tuv lang="EN-GB">
         <seg>when I was first in laboratory</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142439Z" creationid="fred" creationdate="20190329T142439Z">
-        <seg>quand j'étais en laboratoire</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220541Z" creationid="fred" creationdate="20190329T142439Z">
+        <seg>j'étais dans le premier laboratoire</seg>
       </tuv>
     </tu>
     <tu>
@@ -2160,8 +2160,8 @@
       <tuv lang="EN-GB">
         <seg>with the AFM,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142444Z" creationid="fred" creationdate="20190329T142444Z">
-        <seg>avec l'AFM,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220657Z" creationid="fred" creationdate="20190329T142444Z">
+        <seg>avec l'AFM.</seg>
       </tuv>
     </tu>
     <tu>
