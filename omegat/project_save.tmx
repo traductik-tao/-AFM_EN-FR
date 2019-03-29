@@ -504,8 +504,8 @@
       <tuv lang="EN-GB">
         <seg>The second thing I talked about</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142357Z" creationid="fred" creationdate="20190329T142357Z">
-        <seg>La deuxième chose dont j'ai parlé</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T152247Z" creationid="fred" creationdate="20190329T142357Z">
+        <seg>La seconde chose dont j'ai parlé</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,8 +688,8 @@
       <tuv lang="EN-GB">
         <seg>We use that virus to deliver</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142402Z" creationid="fred" creationdate="20190329T142402Z">
-        <seg>Nous utilisons ce virus pour délivrer</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T152737Z" creationid="fred" creationdate="20190329T142402Z">
+        <seg>Nous utilisons ce virus pour déclencher</seg>
       </tuv>
     </tu>
     <tu>
@@ -840,8 +840,8 @@
       <tuv lang="EN-GB">
         <seg>and gene therapy.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142359Z" creationid="fred" creationdate="20190329T142359Z">
-        <seg>et thérapie génique.</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T152405Z" creationid="fred" creationdate="20190329T142359Z">
+        <seg>et la thérapie génique.</seg>
       </tuv>
     </tu>
     <tu>
