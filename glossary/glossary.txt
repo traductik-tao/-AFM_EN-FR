@@ -16,3 +16,4 @@ dystrophin	dystrophine
 surrogate gene therapy	thérapie génique de substitution
 dystroglycan complex	complexe de dystroglycanes
 RNA	ARN
+splicing	épissage
