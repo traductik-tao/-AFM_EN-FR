@@ -96,8 +96,8 @@
       <tuv lang="EN-GB">
         <seg>I look forward to cementing,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T163646Z" creationid="fred" creationdate="20190329T142453Z">
-        <seg>Je serais heureux de consolider nos liens,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T221109Z" creationid="fred" creationdate="20190329T142453Z">
+        <seg>Je suis persuadé que ces liens et relations,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1784,8 +1784,8 @@
       <tuv lang="EN-GB">
         <seg>the coordinated care in research in the muscle diseases.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142449Z" creationid="fred" creationdate="20190329T142449Z">
-        <seg>les soins coordonnés dans la recherche sur les maladies musculaires.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T221000Z" creationid="fred" creationdate="20190329T142449Z">
+        <seg>la coordination des soins et recherches sur les maladies musculaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2128,8 +2128,8 @@
       <tuv lang="EN-GB">
         <seg>with Genethon and the Institute of Myology</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142451Z" creationid="fred" creationdate="20190329T142451Z">
-        <seg>avec Généthon et l'Institut de Myologie</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T221018Z" creationid="fred" creationdate="20190329T142451Z">
+        <seg>avec le Généthon et l'Institut de Myologie,</seg>
       </tuv>
     </tu>
     <tu>
