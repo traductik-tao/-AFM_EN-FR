@@ -11,3 +11,4 @@ prepared bisoprolol	préparation de bisoprolol
 comparator group	groupe de comparaison
 phase-3 trial	essai clinique de phase 3
 supplementation	supplémentation
+myostatin	myostatine
