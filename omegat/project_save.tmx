@@ -80,8 +80,8 @@
       <tuv lang="EN-GB">
         <seg>It circulates in the body</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T085355Z" creationid="fred" creationdate="20190328T222107Z">
-        <seg>Elle circule dans le corps</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T120604Z" creationid="fred" creationdate="20190328T222107Z">
+        <seg>Elle circule dans tout le corps</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,8 +152,8 @@
       <tuv lang="EN-GB">
         <seg>So myostatin is a natural inhibitor</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T222105Z" creationid="fred" creationdate="20190328T222105Z">
-        <seg>Donc, la myostatine est un inhibiteur naturel</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T120500Z" creationid="fred" creationdate="20190328T222105Z">
+        <seg>La myostatine est un inhibiteur naturel</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,8 +584,8 @@
       <tuv lang="EN-GB">
         <seg>and keeps muscle growth in check.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T085713Z" creationid="fred" creationdate="20190328T222108Z">
-        <seg>et permet de limiter naturellement la croissance musculaire.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T120625Z" creationid="fred" creationdate="20190328T222108Z">
+        <seg>limitant naturellement la croissance musculaire.</seg>
       </tuv>
     </tu>
     <tu>
