@@ -160,8 +160,8 @@
       <tuv lang="EN-GB">
         <seg>It actually makes other proteins</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T212815Z" creationid="fred" creationdate="20190329T142353Z">
-        <seg>Elle fabrique en outre d'autres protéines</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T222046Z" creationid="fred" creationdate="20190329T142353Z">
+        <seg>fabricant en outre d'autres protéines</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,8 +688,8 @@
       <tuv lang="EN-GB">
         <seg>We use that virus to deliver</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T152737Z" creationid="fred" creationdate="20190329T142402Z">
-        <seg>Nous utilisons ce virus pour déclencher</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T222202Z" creationid="fred" creationdate="20190329T142402Z">
+        <seg>Ce virus nous permet de déclencher</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,8 +1656,8 @@
       <tuv lang="EN-GB">
         <seg>sort of make utrophin substitute for dystrophin.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T211818Z" creationid="fred" creationdate="20190329T142352Z">
-        <seg>ce qui fait de l’utrophine un substitut de la dystrophine.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T222034Z" creationid="fred" creationdate="20190329T142352Z">
+        <seg>ce qui fait de l’utrophine un substitut de la dystrophine,</seg>
       </tuv>
     </tu>
     <tu>
