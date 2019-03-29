@@ -304,8 +304,8 @@
       <tuv lang="EN-GB">
         <seg>So it is really very functional.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T160944Z" creationid="fred" creationdate="20190329T142423Z">
-        <seg>Donc c'est vraiment très efficace.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220101Z" creationid="fred" creationdate="20190329T142423Z">
+        <seg>Donc c'est vraiment très efficace !</seg>
       </tuv>
     </tu>
     <tu>
@@ -640,8 +640,8 @@
       <tuv lang="EN-GB">
         <seg>We call it "virally-mediated exon skipping".</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142424Z" creationid="fred" creationdate="20190329T142424Z">
-        <seg>Nous l'appelons "saut d'exon à médiation virale".</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220128Z" creationid="fred" creationdate="20190329T142424Z">
+        <seg>Nous appelons cela "saut d'exon à médiation virale".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1592,8 +1592,8 @@
       <tuv lang="EN-GB">
         <seg>or their eighth decade.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T160151Z" creationid="fred" creationdate="20190329T142422Z">
-        <seg>ou même 80 ans.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220052Z" creationid="fred" creationdate="20190329T142422Z">
+        <seg>— et même 80 ans...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2144,8 +2144,8 @@
       <tuv lang="EN-GB">
         <seg>with funding from the AFM long ago,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T162408Z" creationid="fred" creationdate="20190329T142426Z">
-        <seg>avec un financement de l'AFM dans le passé,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220204Z" creationid="fred" creationdate="20190329T142426Z">
+        <seg>avec un financement initial de l'AFM,</seg>
       </tuv>
     </tu>
     <tu>
