@@ -304,8 +304,8 @@
       <tuv lang="EN-GB">
         <seg>So it is really very functional.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142423Z" creationid="fred" creationdate="20190329T142423Z">
-        <seg>Donc c'est vraiment très fonctionnel.</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T160944Z" creationid="fred" creationdate="20190329T142423Z">
+        <seg>Donc c'est vraiment très efficace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2120,8 +2120,8 @@
       <tuv lang="EN-GB">
         <seg>who walk around making that type of dystrophin...</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="joce" changedate="20190329T155918Z" creationid="fred" creationdate="20190329T142419Z">
-        <seg>qui fabriquent ce type de dystrophine ...</seg>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T160830Z" creationid="fred" creationdate="20190329T142419Z">
+        <seg>qui produisent ce type de dystrophine ...</seg>
       </tuv>
     </tu>
     <tu>
