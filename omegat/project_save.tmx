@@ -128,8 +128,8 @@
       <tuv lang="EN-GB">
         <seg>In surrogate gene therapy we don't try to replace</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142335Z" creationid="fred" creationdate="20190329T142326Z">
-        <seg>En thérapie génique de substitution, nous n'essayons pas de remplacer</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T201301Z" creationid="fred" creationdate="20190329T142326Z">
+        <seg>Cette approche n'essaie pas de remplacer</seg>
       </tuv>
     </tu>
     <tu>
@@ -472,8 +472,8 @@
       <tuv lang="EN-GB">
         <seg>The first of these is called surrogate gene therapy.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T142333Z" creationid="fred" creationdate="20190329T142319Z">
-        <seg>Le premier d'entre eux s'appelle la thérapie génique de substitution.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190329T201227Z" creationid="fred" creationdate="20190329T142319Z">
+        <seg>D'abord il y a une nouvelle thérapie génique dite "de substitution".</seg>
       </tuv>
     </tu>
     <tu>
