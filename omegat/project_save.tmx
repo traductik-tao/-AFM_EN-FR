@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10550" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_4_10553" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -106,6 +106,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T141048Z" creationid="fred" creationdate="20190327T140924Z">
         <seg>La plupart des patients sont de type Duchenne ou Becker,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>My lab works mostly on Duchenne muscular dystrophy.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="joce" changedate="20190329T142000Z" creationid="joce" creationdate="20190329T142000Z">
+        <seg>403: Forbidden</seg>
       </tuv>
     </tu>
     <tu>
