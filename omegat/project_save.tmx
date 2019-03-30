@@ -88,8 +88,8 @@
       <tuv lang="EN-GB">
         <seg>But what I really talked about</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145927Z" creationid="fred" creationdate="20190330T145851Z">
-        <seg>Donc ce dont j'ai le plus parlé</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T161310Z" creationid="fred" creationdate="20190330T145851Z">
+        <seg>Donc, ce dont j'ai le plus parlé</seg>
       </tuv>
     </tu>
     <tu>
@@ -1520,7 +1520,7 @@
       <tuv lang="EN-GB">
         <seg>improvements in chemistry, such as stereochemistry,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190330T150001Z" creationid="fred" creationdate="20190330T150001Z">
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T161410Z" creationid="fred" creationdate="20190330T150001Z">
         <seg>améliorations de la chimie, telles que la stéréochimie,</seg>
       </tuv>
     </tu>
