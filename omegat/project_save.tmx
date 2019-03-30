@@ -64,8 +64,8 @@
       <tuv lang="EN-GB">
         <seg>But what I really talked about</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145851Z" creationid="fred" creationdate="20190330T145851Z">
-        <seg>Mais ce dont j'ai les plus parlé</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145927Z" creationid="fred" creationdate="20190330T145851Z">
+        <seg>Donc ce dont j'ai le plus parlé</seg>
       </tuv>
     </tu>
     <tu>
@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>improvements in chemistry, such as stereochemistry,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T150001Z" creationid="fred" creationdate="20190330T150001Z">
+        <seg>améliorations de la chimie, telles que la stéréochimie,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>in Duchenne patients can delay the onset</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T142853Z" creationid="fred" creationdate="20190327T142759Z">
@@ -2160,8 +2168,8 @@
       <tuv lang="EN-GB">
         <seg>was the development of new technologies:</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145914Z" creationid="fred" creationdate="20190330T145914Z">
-        <seg>est le développement de nouvelles technologies :</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145939Z" creationid="fred" creationdate="20190330T145914Z">
+        <seg>est le développement de ces nouvelles technologies :</seg>
       </tuv>
     </tu>
     <tu>
