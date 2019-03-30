@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>So I've been talking about the development</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T144841Z" creationid="fred" creationdate="20190330T144732Z">
+        <seg>Mon intervention portait sur le développement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>So essentially, if I'm a scientist I would say that the study is negative.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T152327Z" creationid="fred" creationdate="20190327T152327Z">
@@ -530,6 +538,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190329T090703Z" creationid="fred" creationdate="20190328T222118Z">
         <seg>Les essais ont porté sur différents types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>These drugs have made tremendous progress</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T144942Z" creationid="fred" creationdate="20190330T144942Z">
+        <seg>Ces médicaments ont fait d'énormes progrès</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>for neuromuscular diseases.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T144934Z" creationid="fred" creationdate="20190330T144934Z">
+        <seg>pour les maladies neuromusculaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>for the last... well, nearly ten years</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T155350Z" creationid="fred" creationdate="20190327T142202Z">
@@ -1370,6 +1394,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T221133Z" creationid="fred" creationdate="20190329T142455Z">
         <seg>dans les années à venir !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>in the last ten years, and</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T144953Z" creationid="fred" creationdate="20190330T144953Z">
+        <seg>au cours des dix dernières années, et</seg>
       </tuv>
     </tu>
     <tu>
@@ -1546,6 +1578,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190329T090753Z" creationid="fred" creationdate="20190328T222119Z">
         <seg>d'inhibiteurs de la myostatine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>of oligonucleotide drugs</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T144759Z" creationid="fred" creationdate="20190330T144759Z">
+        <seg>de médicaments oligonucléotidiques</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +2050,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T200440Z" creationid="fred" creationdate="20190329T142317Z">
         <seg>toutes deux fondées sur la thérapie génique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>two of these drugs have actually been approved,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145104Z" creationid="fred" creationdate="20190330T145104Z">
+        <seg>deux d'entre eux viennent même d'être approuvés :</seg>
       </tuv>
     </tu>
     <tu>
