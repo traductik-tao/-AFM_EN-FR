@@ -1400,8 +1400,8 @@
       <tuv lang="EN-GB">
         <seg>for neuromuscular diseases.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190330T144934Z" creationid="fred" creationdate="20190330T144934Z">
-        <seg>pour les maladies neuromusculaires.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T160613Z" creationid="fred" creationdate="20190330T144934Z">
+        <seg>contre les maladies neuromusculaires.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2242,6 +2242,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T171950Z" creationid="joce" creationdate="20190328T150741Z">
         <seg>des thérapies précises pour chaque patient.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>to take further the development of these new drugs</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T160551Z" creationid="fred" creationdate="20190330T160551Z">
+        <seg>poursuivre le développement de ces nouveaux médicaments</seg>
       </tuv>
     </tu>
     <tu>
