@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>So the future of this work is really</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T151500Z" creationid="fred" creationdate="20190330T151500Z">
+        <seg>Donc, l’avenir de ces travaux est désormais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>So we're hoping to follow the patients for longer.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T152000Z" creationid="fred" creationdate="20190327T152000Z">
@@ -1002,6 +1010,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T154150Z" creationid="fred" creationdate="20190327T154150Z">
         <seg>et découvertes fondamentales, en particulier en biologie moléculaire,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>and the use of nanotechnology.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T151427Z" creationid="fred" creationdate="20190330T151427Z">
+        <seg>et l'utilisation des nanotechnologies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2114,6 +2130,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T171950Z" creationid="joce" creationdate="20190328T150741Z">
         <seg>des thérapies précises pour chaque patient.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>to take the technologies that we have been developing in the laboratory,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T151542Z" creationid="fred" creationdate="20190330T151542Z">
+        <seg>prendre les technologies que nous avons développées en laboratoire,</seg>
       </tuv>
     </tu>
     <tu>
