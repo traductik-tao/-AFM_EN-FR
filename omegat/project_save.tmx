@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-GB">
+        <seg>AFM has played a crucial role in helping to fund</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T155459Z" creationid="fred" creationdate="20190330T155459Z">
+        <seg>L’AFM a joué un rôle crucial en aidant à financer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>And I continue to have close interactions</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190329T163139Z" creationid="fred" creationdate="20190329T142450Z">
@@ -710,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>We had major support</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T155545Z" creationid="fred" creationdate="20190330T155545Z">
+        <seg>Nous avons eu un soutien majeur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>We have been studying myostatin inhibition</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T123233Z" creationid="fred" creationdate="20190328T212152Z">
@@ -914,6 +930,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190329T152405Z" creationid="fred" creationdate="20190329T142359Z">
         <seg>et la thérapie génique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>and helping to develop this research programme.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T155517Z" creationid="fred" creationdate="20190330T155517Z">
+        <seg>et à développer ce programme de recherche.</seg>
       </tuv>
     </tu>
     <tu>
