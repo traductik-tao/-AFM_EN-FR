@@ -368,8 +368,8 @@
       <tuv lang="EN-GB">
         <seg>So the future of this work is really</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190330T151500Z" creationid="fred" creationdate="20190330T151500Z">
-        <seg>Donc, l’avenir de ces travaux est désormais</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T151725Z" creationid="fred" creationdate="20190330T151500Z">
+        <seg>Donc, l’avenir de ces travaux est désormais de</seg>
       </tuv>
     </tu>
     <tu>
@@ -2136,8 +2136,8 @@
       <tuv lang="EN-GB">
         <seg>to take the technologies that we have been developing in the laboratory,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190330T151542Z" creationid="fred" creationdate="20190330T151542Z">
-        <seg>prendre les technologies que nous avons développées en laboratoire,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T151847Z" creationid="fred" creationdate="20190330T151542Z">
+        <seg>sortir du laboratoire les technologies que nous avons développées afin de</seg>
       </tuv>
     </tu>
     <tu>
