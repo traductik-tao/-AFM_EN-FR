@@ -1,0 +1,176 @@
+1
+00:00:13,340 --> 00:00:16,340
+Mon intervention portait sur le développement
+
+2
+00:00:16,340 --> 00:00:18,220
+de médicaments oligonucléotidiques
+
+3
+00:00:18,220 --> 00:00:20,020
+contre les maladies neuromusculaires.
+
+4
+00:00:20,020 --> 00:00:22,660
+Ces médicaments ont fait d'énormes progrès
+
+5
+00:00:22,660 --> 00:00:23,900
+au cours des dix dernières années, et
+
+6
+00:00:23,900 --> 00:00:26,220
+deux d'entre eux viennent même d'être approuvés :
+
+7
+00:00:26,220 --> 00:00:27,180
+un pour la dystrophie de Duchenne, et
+
+8
+00:00:27,180 --> 00:00:29,180
+l'autre pour l'atrophie musculaire spinale.
+
+9
+00:00:29,180 --> 00:00:31,820
+Néanmoins, pour faire vraiment avancer ces médicaments
+
+10
+00:00:31,820 --> 00:00:32,940
+dans les dix prochaines années,
+
+11
+00:00:32,940 --> 00:00:34,740
+et les appliquer beaucoup plus largement à
+
+12
+00:00:34,740 --> 00:00:36,740
+toute une gamme de maladies neuromusculaires,
+
+13
+00:00:36,740 --> 00:00:38,500
+il nous faut impérativement répondre
+
+14
+00:00:38,500 --> 00:00:40,580
+à une question : comment les administrer ?
+
+15
+00:00:40,580 --> 00:00:43,140
+Il nous faut en particulier développer de nouvelles technologies
+
+16
+00:00:43,140 --> 00:00:46,580
+pour leur délivrance à l'intérieur du cerveau,
+
+17
+00:00:46,580 --> 00:00:50,660
+des muscles, de la moelle épinière ... avec efficacité et sécurité.
+
+18
+00:00:50,660 --> 00:00:52,260
+Donc, ce dont j'ai le plus parlé
+
+19
+00:00:52,260 --> 00:00:54,620
+est le développement de ces nouvelles technologies :
+
+20
+00:00:54,620 --> 00:00:57,340
+améliorations de la chimie, telles que la stéréochimie,
+
+21
+00:00:57,340 --> 00:00:59,060
+amélioration des ligands
+
+22
+00:00:59,060 --> 00:01:02,220
+pour la délivrance de médicaments — peptides, anticorps...
+
+23
+00:01:02,220 --> 00:01:04,020
+et l'utilisation des nanotechnologies.
+
+24
+00:01:04,020 --> 00:01:07,980
+Donc, l’avenir de ces travaux est désormais de
+
+25
+00:01:07,980 --> 00:01:11,860
+sortir du laboratoire les technologies que nous avons développées afin de
+
+26
+00:01:11,860 --> 00:01:15,380
+les tester sur des cellules et des modèles animaux...
+
+27
+00:01:15,380 --> 00:01:17,140
+Ensuite la prochaine étape sera
+
+28
+00:01:17,140 --> 00:01:19,420
+les essais cliniques sur les patients.
+
+29
+00:01:19,420 --> 00:01:22,060
+Pour Duchenne, pour la dystrophie myotonique,
+
+30
+00:01:22,060 --> 00:01:25,580
+nous travaillons actuellement sur la sécurité de ce nouveau composé,
+
+31
+00:01:25,580 --> 00:01:28,020
+un oligonucléotide avancé.
+
+32
+00:01:28,020 --> 00:01:29,580
+Nous espérons commencer
+
+33
+00:01:29,580 --> 00:01:31,740
+les premiers essais cliniques l'année prochaine en 2020.
+
+34
+00:01:32,660 --> 00:01:34,420
+Les travaux que j'ai décrits
+
+35
+00:01:34,420 --> 00:01:37,540
+se sont surtout développés au cours des dix dernières années.
+
+36
+00:01:37,540 --> 00:01:41,300
+L’AFM a joué un rôle crucial en aidant à financer
+
+37
+00:01:41,300 --> 00:01:44,420
+et à développer ce programme de recherche
+
+38
+00:01:44,420 --> 00:01:45,460
+— avec un soutien majeur
+
+39
+00:01:45,460 --> 00:01:47,380
+de nos programmes contre la dystrophie musculaire.
+
+40
+00:01:47,380 --> 00:01:50,300
+et contre la dystrophie myotonique.
+
+41
+00:01:50,300 --> 00:01:52,300
+Et nous comptons fortement sur
+
+42
+00:01:52,300 --> 00:01:54,180
+l'aide de l'AFM dans l'avenir, afin de
+
+43
+00:01:54,180 --> 00:01:56,540
+poursuivre le développement de ces nouveaux médicaments
+
+44
+00:01:56,540 --> 00:01:58,620
+contre les maladies neuromusculaires.
+
