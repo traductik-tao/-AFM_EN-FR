@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>AFM will work with us in the future.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T160540Z" creationid="fred" creationdate="20190330T160540Z">
+        <seg>l'aide d'AFM dans l'avenir, afin de</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>And I continue to have close interactions</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190329T163139Z" creationid="fred" creationdate="20190329T142450Z">
@@ -42,6 +50,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T202753Z" creationid="fred" creationdate="20190329T142339Z">
         <seg>Le gène que nous utilisons s'appelle GALGT2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>And we are very hopeful that</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T160120Z" creationid="fred" creationdate="20190330T160120Z">
+        <seg>Et nous comptons fortement sur</seg>
       </tuv>
     </tu>
     <tu>
