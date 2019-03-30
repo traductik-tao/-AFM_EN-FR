@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>one for Duchenne, and</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145130Z" creationid="fred" creationdate="20190330T145130Z">
+        <seg>un pour la dystrophie de Duchenne, et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>one that can substitute in function for it.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T202725Z" creationid="fred" creationdate="20190329T142338Z">
@@ -1906,6 +1914,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T160245Z" creationid="fred" creationdate="20190327T154848Z">
         <seg>La mise en réseau des connaissances aussi :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>the other one for spinal muscular atrophy.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145317Z" creationid="fred" creationdate="20190330T145317Z">
+        <seg>l'autre pour l'atrophie musculaire spinale.</seg>
       </tuv>
     </tu>
     <tu>
