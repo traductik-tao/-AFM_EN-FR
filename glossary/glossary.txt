@@ -17,3 +17,5 @@ surrogate gene therapy	thérapie génique de substitution
 dystroglycan complex	complexe de dystroglycanes
 RNA	ARN
 splicing	épissage
+oligonucleotide drugs	médicaments oligonucléotidiques
+spinal muscular atrophy	atrophie musculaire spinale
