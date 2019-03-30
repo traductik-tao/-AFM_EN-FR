@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>The work that I described</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T152438Z" creationid="fred" creationdate="20190330T152438Z">
+        <seg>Les travaux que j'ai décrits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>There are 3 collagen VI genes and mutations</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T165558Z" creationid="joce" creationdate="20190328T131300Z">
@@ -1410,6 +1418,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T122439Z" creationid="fred" creationdate="20190328T222129Z">
         <seg>a été particulièrement fructueuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>has really taken place mostly over the last ten years.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T152527Z" creationid="fred" creationdate="20190330T152527Z">
+        <seg>se sont pour la plupart développés au cours des dix dernières années.</seg>
       </tuv>
     </tu>
     <tu>
