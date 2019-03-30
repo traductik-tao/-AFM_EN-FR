@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>But what I really talked about</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145851Z" creationid="fred" creationdate="20190330T145851Z">
+        <seg>Mais ce dont j'ai les plus parlé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>Duchenne, Becker's,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T120348Z" creationid="fred" creationdate="20190328T222053Z">
@@ -920,8 +928,8 @@
       <tuv lang="EN-GB">
         <seg>and particularly the development of new technologies</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145608Z" creationid="fred" creationdate="20190330T145608Z">
-        <seg>and particularly the development of new technologies</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145651Z" creationid="fred" creationdate="20190330T145608Z">
+        <seg>Il nous faut en particulier développer de nouvelles technologies</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>muscles, spinal cord... efficiently and safely.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145835Z" creationid="fred" creationdate="20190330T145835Z">
+        <seg>des muscles, de la moelle épinière ... avec efficacité et sécurité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>mutations are often acting as a dominant,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T165842Z" creationid="joce" creationdate="20190328T132553Z">
@@ -2032,8 +2048,8 @@
       <tuv lang="EN-GB">
         <seg>to allow the delivery of these drugs into brain,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145611Z" creationid="fred" creationdate="20190330T145611Z">
-        <seg>to allow the delivery of these drugs into brain,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145733Z" creationid="fred" creationdate="20190330T145611Z">
+        <seg>pour leur délivrance à l'intérieur du cerveau,</seg>
       </tuv>
     </tu>
     <tu>
@@ -2138,6 +2154,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T215040Z" creationid="fred" creationdate="20190329T142358Z">
         <seg>est une technique combinant le saut d'exon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>was the development of new technologies:</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145914Z" creationid="fred" creationdate="20190330T145914Z">
+        <seg>est le développement de nouvelles technologies :</seg>
       </tuv>
     </tu>
     <tu>
