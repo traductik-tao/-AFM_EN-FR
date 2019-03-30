@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>for the delivery of drugs, such as peptides and antibodies...</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T150620Z" creationid="fred" creationdate="20190330T150620Z">
+        <seg>pour la délivrance de médicaments — peptides, anticorps...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>for the last... well, nearly ten years</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T155350Z" creationid="fred" creationdate="20190327T142202Z">
