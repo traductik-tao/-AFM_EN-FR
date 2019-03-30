@@ -720,8 +720,8 @@
       <tuv lang="EN-GB">
         <seg>We had major support</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190330T155545Z" creationid="fred" creationdate="20190330T155545Z">
-        <seg>Nous avons eu un soutien majeur</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T155630Z" creationid="fred" creationdate="20190330T155545Z">
+        <seg>— avec un soutien majeur</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>and also for the myotonic dystrophy programme.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T155819Z" creationid="fred" creationdate="20190330T155819Z">
+        <seg>et contre la dystrophie myotonique.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>and an improvement in muscle quality,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T222111Z" creationid="fred" creationdate="20190328T222111Z">
@@ -936,8 +944,8 @@
       <tuv lang="EN-GB">
         <seg>and helping to develop this research programme.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190330T155517Z" creationid="fred" creationdate="20190330T155517Z">
-        <seg>et à développer ce programme de recherche.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T155551Z" creationid="fred" creationdate="20190330T155517Z">
+        <seg>et à développer ce programme de recherche</seg>
       </tuv>
     </tu>
     <tu>
@@ -1378,6 +1386,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190330T144934Z" creationid="fred" creationdate="20190330T144934Z">
         <seg>pour les maladies neuromusculaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>for our muscular dystrophy programme.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T155830Z" creationid="fred" creationdate="20190330T155744Z">
+        <seg>de nos programmes contre la dystrophie musculaire.</seg>
       </tuv>
     </tu>
     <tu>
