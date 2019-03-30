@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>For Duchenne, for myotonic dystrophy,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T152105Z" creationid="fred" creationdate="20190330T152105Z">
+        <seg>Pour Duchenne, pour la dystrophie myotonique,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>GALGT2 is a protein that is normally expressed</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T142340Z" creationid="fred" creationdate="20190329T142340Z">
@@ -926,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>and now the next stage is really</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T152014Z" creationid="fred" creationdate="20190330T152014Z">
+        <seg>Ensuite la prochaine étape sera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>and other researches from the AFM.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190329T163347Z" creationid="fred" creationdate="20190329T142452Z">
@@ -1106,6 +1122,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190327T152154Z" creationid="fred" creationdate="20190327T152154Z">
         <seg>pour le moment nous devons conclure</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>be testing these in cells and animal models...</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T151938Z" creationid="fred" creationdate="20190330T151938Z">
+        <seg>les tester sur des cellules et des modèles animaux...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,6 +2166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>to take these to testing in patients.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T152058Z" creationid="fred" creationdate="20190330T152058Z">
+        <seg>les essais cliniques sur les patients.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>to the disease progression,</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T182534Z" creationid="joce" creationdate="20190328T182534Z">
@@ -2210,6 +2242,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190330T145939Z" creationid="fred" creationdate="20190330T145914Z">
         <seg>est le développement de ces nouvelles technologies :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>we are now working on the safety of this new compound,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190330T152208Z" creationid="fred" creationdate="20190330T152208Z">
+        <seg>nous travaillons actuellement sur la sécurité de ce nouveau composé,</seg>
       </tuv>
     </tu>
     <tu>
