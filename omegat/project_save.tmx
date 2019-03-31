@@ -32,8 +32,8 @@
       <tuv lang="EN-GB">
         <seg>And how we are taking it further,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190331T111104Z" creationid="fred" creationdate="20190331T111104Z">
-        <seg>J'ai aussi montré comment nous allons plus loin,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T132454Z" creationid="fred" creationdate="20190331T111104Z">
+        <seg>J'ai aussi montré comment nous approfondissons nos recherches,</seg>
       </tuv>
     </tu>
     <tu>
@@ -144,8 +144,8 @@
       <tuv lang="EN-GB">
         <seg>I demonstrated several different aspects of this data set.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110847Z" creationid="fred" creationdate="20190331T110733Z">
-        <seg>J'ai approfondi différents aspects de cet ensemble de données.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T132329Z" creationid="fred" creationdate="20190331T110733Z">
+        <seg>J'ai approfondi différents aspects des résultats obtenus :</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +344,8 @@
       <tuv lang="EN-GB">
         <seg>One is the diagnostic yield,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110958Z" creationid="fred" creationdate="20190331T110958Z">
-        <seg>L'un est le rendement diagnostique,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T132406Z" creationid="fred" creationdate="20190331T110958Z">
+        <seg>non seulement le rendement diagnostique,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1232,8 +1232,8 @@
       <tuv lang="EN-GB">
         <seg>and the novel findings from this data set.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190331T111038Z" creationid="fred" creationdate="20190331T111038Z">
-        <seg>et les nouvelles découvertes issues de ces données.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T132430Z" creationid="fred" creationdate="20190331T111038Z">
+        <seg>mais aussi les nouvelles découvertes qui en découlent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1424,8 +1424,8 @@
       <tuv lang="EN-GB">
         <seg>by doing RNA sequencing per FU-Mix,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190331T111159Z" creationid="fred" creationdate="20190331T111159Z">
-        <seg>en effectuant des séquençages d'ARN par FU-Mix,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T132514Z" creationid="fred" creationdate="20190331T111159Z">
+        <seg>au moyen de séquençages d'ARN par FU-Mix,</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,8 +2032,8 @@
       <tuv lang="EN-GB">
         <seg>on above five thousand patients,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110509Z" creationid="fred" creationdate="20190331T110509Z">
-        <seg>— plus de cinq mille patients,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T132232Z" creationid="fred" creationdate="20190331T110509Z">
+        <seg>— plus de cinq mille personnes,</seg>
       </tuv>
     </tu>
     <tu>
