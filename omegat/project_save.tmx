@@ -960,8 +960,8 @@
       <tuv lang="EN-GB">
         <seg>against some exon backbone</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190331T111550Z" creationid="fred" creationdate="20190331T111550Z">
-        <seg>contre une épine dorsale exon</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T130800Z" creationid="fred" creationdate="20190331T111550Z">
+        <seg>par référence à un épissage d'exons,</seg>
       </tuv>
     </tu>
     <tu>
