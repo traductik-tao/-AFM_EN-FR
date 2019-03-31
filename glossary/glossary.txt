@@ -25,3 +25,5 @@ myotonic dystrophy	dystrophie myotonique
 neuromuscular diseases	maladies neuromusculaires
 limb-girdle muscular dystrophies	dystrophies musculaires des ceintures
 diagnostic yield	rendement diagnostique
+RNA sequencing per FU-Mix	séquençages d'ARN par FU-Mix
+synovial secretors' zygosity	zygosité des sécréteurs synoviaux
