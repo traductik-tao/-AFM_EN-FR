@@ -968,8 +968,8 @@
       <tuv lang="EN-GB">
         <seg>against some exon backbone</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190331T130800Z" creationid="fred" creationdate="20190331T111550Z">
-        <seg>par référence à un épissage d'exons,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T132634Z" creationid="fred" creationdate="20190331T111550Z">
+        <seg>confrontés à un épissage d'exons de référence,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1144,8 +1144,8 @@
       <tuv lang="EN-GB">
         <seg>and perform some novel assess,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190331T131737Z" creationid="fred" creationdate="20190331T131737Z">
-        <seg>pour de nouvelle évaluation,</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T132753Z" creationid="fred" creationdate="20190331T131737Z">
+        <seg>pour de nouvelle évaluations,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1664,8 +1664,8 @@
       <tuv lang="EN-GB">
         <seg>going from 35 genes to 99 genes</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190331T111339Z" creationid="fred" creationdate="20190331T111339Z">
-        <seg>passant de 35 à 99 gènes</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T132557Z" creationid="fred" creationdate="20190331T111339Z">
+        <seg>qui est passé de 35 à 99 gènes</seg>
       </tuv>
     </tu>
     <tu>
@@ -1880,8 +1880,8 @@
       <tuv lang="EN-GB">
         <seg>is to continue offering the 99 gene panel</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190331T131138Z" creationid="fred" creationdate="20190331T131138Z">
-        <seg>sont de poursuivre notre confrontation d'un panel de 99 gènes</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T132718Z" creationid="fred" creationdate="20190331T131138Z">
+        <seg>sont de poursuivre cette confrontation d'un panel de 99 gènes</seg>
       </tuv>
     </tu>
     <tu>
