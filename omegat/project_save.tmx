@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>I demonstrated several different aspects of this data set.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110733Z" creationid="fred" creationdate="20190331T110733Z">
+        <seg>I demonstrated several different aspects of this data set.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>I first learned of the AFM years ago</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T220459Z" creationid="fred" creationdate="20190329T142438Z">
@@ -658,6 +666,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T215916Z" creationid="fred" creationdate="20190329T142421Z">
         <seg>d'atteindre et dépasser 70 ans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>This data has been published and...</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110737Z" creationid="fred" creationdate="20190331T110730Z">
+        <seg>Ces données ont été publiées et...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,6 +1474,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190328T151612Z" creationid="joce" creationdate="20190328T151612Z">
         <seg>même pour des mutations très rares,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>for limb-girdle muscular dystrophies.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110724Z" creationid="fred" creationdate="20190331T110724Z">
+        <seg>liés aux dystrophies musculaires des ceintures.</seg>
       </tuv>
     </tu>
     <tu>
