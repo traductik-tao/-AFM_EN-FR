@@ -24,3 +24,4 @@ ligand	ligand	En biologie, un ligand (du latin ligandum, liant) est une molécul
 myotonic dystrophy	dystrophie myotonique
 neuromuscular diseases	maladies neuromusculaires
 limb-girdle muscular dystrophies	dystrophies musculaires des ceintures
+diagnostic yield	rendement diagnostique
