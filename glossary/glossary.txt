@@ -23,3 +23,4 @@ stereochemistry	stéréochimie
 ligand	ligand	En biologie, un ligand (du latin ligandum, liant) est une molécule qui se lie de manière réversible à une macromolécule ciblée, protéine ou acide nucléique, jouant en général un rôle fonctionnel : stabilisation structurale, catalyse, modulation d'une activité enzymatique, transmission d'un signal.
 myotonic dystrophy	dystrophie myotonique
 neuromuscular diseases	maladies neuromusculaires
+limb-girdle muscular dystrophies	dystrophies musculaires des ceintures
