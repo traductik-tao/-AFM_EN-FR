@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>I showed results from a large cohort of patients,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110435Z" creationid="fred" creationdate="20190331T110435Z">
+        <seg>J'ai montré les résultats d'une grande cohorte de patients,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>I work on understanding</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190331T110034Z" creationid="fred" creationdate="20190331T110034Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T213607Z" creationid="joce" creationdate="20190328T164600Z">
         <seg>... en fait, le premier essai de ce type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>In my presentation today,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110422Z" creationid="fred" creationdate="20190331T110353Z">
+        <seg>Dans ma présentation d'aujourd'hui,</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +426,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T214801Z" creationid="fred" creationdate="20190329T142355Z">
         <seg>Voilà donc l'approche du gène de substitution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>So that we know which gene the pathogenic gradients are in,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110340Z" creationid="fred" creationdate="20190331T110319Z">
+        <seg>Nous cherchons dans quels gènes se trouvent leurs gradients pathogènes,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1050,6 +1074,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T212500Z" creationid="joce" creationdate="20190328T163731Z">
         <seg>puis s'étendant progressivement</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>and so enable them to enrol in clinical trials.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110418Z" creationid="fred" creationdate="20190331T110334Z">
+        <seg>afin de pouvoir les intégrer à des essais cliniques.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1838,6 +1870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>on above five thousand patients,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110509Z" creationid="fred" creationdate="20190331T110509Z">
+        <seg>— plus de cinq mille patients,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>one for Duchenne, and</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190330T145130Z" creationid="fred" creationdate="20190330T145130Z">
@@ -2498,6 +2538,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="joce" changedate="20190329T160830Z" creationid="fred" creationdate="20190329T142419Z">
         <seg>qui produisent ce type de dystrophine ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>who were tested for the 35 gene panel</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110655Z" creationid="fred" creationdate="20190331T110655Z">
+        <seg>testés sur un panel de 35 gènes</seg>
       </tuv>
     </tu>
     <tu>
