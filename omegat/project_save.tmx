@@ -144,16 +144,16 @@
       <tuv lang="EN-GB">
         <seg>I demonstrated several different aspects of this data set.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190331T132329Z" creationid="fred" creationdate="20190331T110733Z">
-        <seg>J'ai approfondi différents aspects des résultats obtenus :</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="fred" creationdate="20190331T110733Z">
+        <seg>J'ai approfondi différents aspects des résultats obtenus :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>I first learned of the AFM years ago</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220459Z" creationid="fred" creationdate="20190329T142438Z">
-        <seg>J'ai découvert l'AFM il y a longtemps déjà :</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="fred" creationdate="20190329T142438Z">
+        <seg>J'ai découvert l'AFM il y a longtemps déjà :</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +184,8 @@
       <tuv lang="EN-GB">
         <seg>I'm working on a rather rare muscle disease</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T172709Z" creationid="joce" creationdate="20190328T162543Z">
-        <seg>Je travaille sur une maladie musculaire plutôt rare :</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="joce" creationdate="20190328T162543Z">
+        <seg>Je travaille sur une maladie musculaire plutôt rare :</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,16 +280,16 @@
       <tuv lang="EN-GB">
         <seg>It turned out as well.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T214722Z" creationid="fred" creationdate="20190329T142354Z">
-        <seg>C'est donc une grande réussite !</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="fred" creationdate="20190329T142354Z">
+        <seg>C'est donc une grande réussite !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-GB">
         <seg>It was called the neuromuscular junction,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T203020Z" creationid="fred" creationdate="20190329T142342Z">
-        <seg>On parle aussi de jonction neuromusculaire :</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="fred" creationdate="20190329T142342Z">
+        <seg>On parle aussi de jonction neuromusculaire :</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +432,8 @@
       <tuv lang="EN-GB">
         <seg>So it is really very functional.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T220101Z" creationid="fred" creationdate="20190329T142423Z">
-        <seg>Donc c'est vraiment très efficace !</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="fred" creationdate="20190329T142423Z">
+        <seg>Donc c'est vraiment très efficace !</seg>
       </tuv>
     </tu>
     <tu>
@@ -552,8 +552,8 @@
       <tuv lang="EN-GB">
         <seg>That is where GALGT2 is usually found.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T221951Z" creationid="fred" creationdate="20190329T142347Z">
-        <seg>Et justement, à cet endroit, on trouve GALGT2 !</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="fred" creationdate="20190329T142347Z">
+        <seg>Et justement, à cet endroit, on trouve GALGT2 !</seg>
       </tuv>
     </tu>
     <tu>
@@ -1000,8 +1000,8 @@
       <tuv lang="EN-GB">
         <seg>and a beta blocker : prepared bisoprolol.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T155546Z" creationid="fred" creationdate="20190327T150404Z">
-        <seg>et de bêta-bloquant : une préparation de bisoprolol.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="fred" creationdate="20190327T150404Z">
+        <seg>et de bêta-bloquant : une préparation de bisoprolol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1800,8 +1800,8 @@
       <tuv lang="EN-GB">
         <seg>in the coming years as well.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190329T221133Z" creationid="fred" creationdate="20190329T142455Z">
-        <seg>dans les années à venir !</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="fred" creationdate="20190329T142455Z">
+        <seg>dans les années à venir !</seg>
       </tuv>
     </tu>
     <tu>
@@ -1824,8 +1824,8 @@
       <tuv lang="EN-GB">
         <seg>in the severity of their disorders:</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T214828Z" creationid="joce" creationdate="20190328T182820Z">
-        <seg>très variable selon les personnes :</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="joce" creationdate="20190328T182820Z">
+        <seg>très variable selon les personnes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -1944,8 +1944,8 @@
       <tuv lang="EN-GB">
         <seg>much, much more rapidly than traditional methods!</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T155106Z" creationid="fred" creationdate="20190327T155106Z">
-        <seg>bien plus rapidement qu'avec les méthodes traditionnelles !</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="fred" creationdate="20190327T155106Z">
+        <seg>bien plus rapidement qu'avec les méthodes traditionnelles !</seg>
       </tuv>
     </tu>
     <tu>
@@ -2280,8 +2280,8 @@
       <tuv lang="EN-GB">
         <seg>that we had in the study,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190328T220021Z" creationid="joce" creationdate="20190328T194131Z">
-        <seg>et étudiés dans nos travaux :</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="joce" creationdate="20190328T194131Z">
+        <seg>et étudiés dans nos travaux :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2336,8 +2336,8 @@
       <tuv lang="EN-GB">
         <seg>the harder it is to show a benefit!</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T153044Z" creationid="fred" creationdate="20190327T153044Z">
-        <seg>plus il est difficile de démontrer son bénéfice !</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="fred" creationdate="20190327T153044Z">
+        <seg>plus il est difficile de démontrer son bénéfice !</seg>
       </tuv>
     </tu>
     <tu>
@@ -2400,8 +2400,8 @@
       <tuv lang="EN-GB">
         <seg>the networking is critical,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190327T160245Z" creationid="fred" creationdate="20190327T154848Z">
-        <seg>La mise en réseau des connaissances aussi :</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="fred" creationdate="20190327T154848Z">
+        <seg>La mise en réseau des connaissances aussi :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2416,8 +2416,8 @@
       <tuv lang="EN-GB">
         <seg>the question of how these drugs are delivered,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190330T161212Z" creationid="fred" creationdate="20190330T145608Z">
-        <seg>à une question : comment les administrer ?</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="fred" creationdate="20190330T145608Z">
+        <seg>à une question : comment les administrer ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2624,8 +2624,8 @@
       <tuv lang="EN-GB">
         <seg>two of these drugs have actually been approved,</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145104Z" creationid="fred" creationdate="20190330T145104Z">
-        <seg>deux d'entre eux viennent même d'être approuvés :</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="fred" creationdate="20190330T145104Z">
+        <seg>deux d'entre eux viennent même d'être approuvés :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2640,8 +2640,8 @@
       <tuv lang="EN-GB">
         <seg>was the development of new technologies:</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190330T145939Z" creationid="fred" creationdate="20190330T145914Z">
-        <seg>est le développement de ces nouvelles technologies :</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T133514Z" creationid="fred" creationdate="20190330T145914Z">
+        <seg>est le développement de ces nouvelles technologies :</seg>
       </tuv>
     </tu>
     <tu>
