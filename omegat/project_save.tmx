@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>against the exon backbone,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T131206Z" creationid="fred" creationdate="20190331T131206Z">
+        <seg>à un épissage d'exons de référence,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>and Duchenne muscular dystrophy in particular.</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T142437Z" creationid="fred" creationdate="20190329T142437Z">
@@ -1830,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>is to continue offering the 99 gene panel</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T131138Z" creationid="fred" creationdate="20190331T131138Z">
+        <seg>sont de poursuivre notre confrontation d'un panel de 99 gènes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>it did not show any improvement</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T213720Z" creationid="joce" creationdate="20190328T164842Z">
@@ -2378,6 +2394,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190328T214710Z" creationid="joce" creationdate="20190328T182516Z">
         <seg>son trop court-terme, comparé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>through the Lantern project</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T131307Z" creationid="fred" creationdate="20190331T131307Z">
+        <seg>à travers le projet Lantern,</seg>
       </tuv>
     </tu>
     <tu>
