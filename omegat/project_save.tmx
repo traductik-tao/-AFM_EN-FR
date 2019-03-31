@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-GB">
+        <seg>And how we are taking it further,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T111104Z" creationid="fred" creationdate="20190331T111104Z">
+        <seg>J'ai aussi montré comment nous allons plus loin,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
         <seg>And in that place, dystrophin protein</seg>
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190329T205841Z" creationid="fred" creationdate="20190329T142345Z">
@@ -136,8 +144,8 @@
       <tuv lang="EN-GB">
         <seg>I demonstrated several different aspects of this data set.</seg>
       </tuv>
-      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110733Z" creationid="fred" creationdate="20190331T110733Z">
-        <seg>I demonstrated several different aspects of this data set.</seg>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110847Z" creationid="fred" creationdate="20190331T110733Z">
+        <seg>J'ai approfondi différents aspects de cet ensemble de données.</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190331T110000Z" creationid="fred" creationdate="20190331T110000Z">
         <seg>Je m'appelle Madhuri Hegde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>One is the diagnostic yield,</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T110958Z" creationid="fred" creationdate="20190331T110958Z">
+        <seg>L'un est le rendement diagnostique,</seg>
       </tuv>
     </tu>
     <tu>
@@ -1162,6 +1178,14 @@
       </tuv>
       <tuv lang="FR-FR" changeid="fred" changedate="20190330T152338Z" creationid="fred" creationdate="20190330T152300Z">
         <seg>Nous espérons commencer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>and the novel findings from this data set.</seg>
+      </tuv>
+      <tuv lang="FR-FR" changeid="fred" changedate="20190331T111038Z" creationid="fred" creationdate="20190331T111038Z">
+        <seg>et les nouvelles découvertes issues de ces données.</seg>
       </tuv>
     </tu>
     <tu>
